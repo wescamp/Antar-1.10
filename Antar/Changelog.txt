@@ -1,4 +1,0 @@
-CHANGELOG
-
-
-0.0.5             Scenario 08 The Dwarves revised by Daravel
