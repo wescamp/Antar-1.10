@@ -1,0 +1,90 @@
+Changelog Antar                Version 0.0.6
+
+Changed the XP of the Gelphrad_Initiate unit from 47 => 42
+Changed the HP of the Gelphrad_Initiate unit from 16 => 20
+There is now a limit of max 3 Sergeants allowed to recruit
+Downgraded Elorial Din from L3 Marshal to L2 Captain (Elorial Din is allowed now to level up till Elvish High Lord)
+
+
+01  The loyal Peasant levels now up to Thug (L1), no longer up to Bandit (L2)
+     (thanks taptap)
+01  On difficulty-level EASY : Now the enemy leader can only untill turn 27 recruit a full castle of Walking Corpses each turn                  
+     (thanks taptap)
+
+03  Gelphrad keeps his XP gained in 02 when he changes his clothes.
+     (thanks taptap)
+03  Changed the Arctic_Wolf-sprites to the core Wolf-sprites.
+     (thanks taptap)
+
+04  If you have more than 20 own units at the start, then the goblin spawn is reduced fom 2.5 per own unit to 2.0 per own unit.
+      (thanks taptap)
+04  Save game after finishing this scenario.
+     (thanks taptap)
+04  Add 2nd hint: 'Stay on the path'.
+04  Add 3rd hint: 'Keep together, and shield eachother'.
+
+05  Add hint to capture the elvish villages not.
+     (thanks Leo)
+
+06  Bat-leader will change to passive_leader=no when a unit comes next.
+     (thanks taptap)
+06  You don't get the 13 coins if you decide to kill the bat leader not.
+     (thanks taptap)
+
+07  The Elves kill no longer the Ork-leader at the end of the scenario, he gets in prison now.
+     (thanks taptap)
+
+
+
+Changelog Antar                Version 0.0.7
+
+Fixed a bug in 2nd scenarios [ai] definition (thanks WhiteWolf for reporting)
+
+
+
+Changelog Antar                Version 0.0.8                Upload 22.03.2012
+
+Fixed the missing image of the Death Squire
+02    The windmill has now income like a village
+02    The player gets now a warning before the Undead-reinforcements arrive    (thanks taptap)
+03    Now 3 different level of Wolfes attack together in pack
+05    Made it so that only one Elvish Hunter is loyal
+05    Fixed the scout problem
+05    Deletet name of the Yeti. Yetis shouldn't have any names.
+
+
+
+Changelog Antar                Version 0.0.10                Upload 07.04.2012
+
+01    Resized the map 
+05    Fixed a typo and  a missing closing-tag in the hint message
+
+
+
+Changelog Antar                Version 0.0.11                Upload xx.xx.2012
+
+Fixed 'undead disapear message'
+Add last breath message for the loyal Lowitz
+Add last breath message for the loyal Segurd
+Add last breath message for Pretscher
+Add last breath message for loyal Elves
+Renamed the Lvl 1 Peasant to Vigilante
+ (thanks Metal King)
+
+01    Add one new village image (made by Zebulon) 
+01    Add different messages when Undead capture Human villages
+05    Removed the Scout from the intro 
+       (thanks taptap, thanks Metal King)
+05    Made the scenario a little more difficult, especialy on HARD
+05    Add fake-attack-event to the intro
+06    Add an ancient armor to find
+07    Reduced Troll-leader's max_moves from 7 to 5
+       (thanks Metal King)
+07    Reduced Troll's moves after fake-move
+       (thanks Metal King)
+08    Changed the recruitment_pattern so that the Undead recruit not only archers
+
+
+
+
+
