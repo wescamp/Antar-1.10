@@ -61,7 +61,7 @@ Changelog Antar                Version 0.0.10                Upload 07.04.2012
 
 
 
-Changelog Antar                Version 0.0.11                Upload xx.xx.2012
+Changelog Antar                Version 0.0.11                Upload 06.05.2012
 
 Fixed 'undead disapear message'
 Add last breath message for the loyal Lowitz
@@ -75,7 +75,7 @@ Renamed the Lvl 1 Peasant to Vigilante
 01    Add different messages when Undead capture Human villages
 05    Removed the Scout from the intro 
        (thanks taptap, thanks Metal King)
-05    Made the scenario a little more difficult, especialy on HARD
+05    Made the scenario a little more difficult, especially on HARD
 05    Add fake-attack-event to the intro
 06    Add an ancient armor to find
 07    Reduced Troll-leader's max_moves from 7 to 5
@@ -83,6 +83,13 @@ Renamed the Lvl 1 Peasant to Vigilante
 07    Reduced Troll's moves after fake-move
        (thanks Metal King)
 08    Changed the recruitment_pattern so that the Undead recruit not only archers
+
+
+
+
+Changelog Antar                Version 0.8.12                Upload 20.05.2012
+
+Changed the villagers alignment from 'neutral' to 'lawful'
 
 
 
