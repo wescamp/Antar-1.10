@@ -90,6 +90,24 @@ Renamed the Lvl 1 Peasant to Vigilante
 Changelog Antar                Version 0.8.12                Upload 20.05.2012
 
 Changed the villagers alignment from 'neutral' to 'lawful'
+Added 'Hit and run' to Antar
+Added 'Cleave' abillity' to Careonryn 
+        (thanks Ninjuri for the idea; thanks dugi for the code)
+
+
+
+
+Changelog Antar                Version 0.8.13                Upload 02.06.2012
+
+Changed Elorial Din's traits to 'INTELLIGENT' and 'STRONG'
+Did a compete workover for all Elorial Din advancements
+
+05    Added [target] side=1,2 to the Yeti's [ai] tag
+06    Reduced the Yetis attack-damage and movement
+       (thanks Limabean)
+
+
+Changelog Antar                Version 0.8.14                Upload xx.xx.2012
 
 
 
