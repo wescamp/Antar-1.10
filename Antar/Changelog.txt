@@ -104,11 +104,17 @@ Did a compete workover for all Elorial Din advancements
 
 05    Added [target] side=1,2 to the Yeti's [ai] tag
 06    Reduced the Yetis attack-damage and movement
+
+
+Changelog Antar                Version 0.8.14                Upload 04.06.2012
+
+Did some suggested by Esperon, to make 'Antar, son of Rheor' translatable
+       (thanks Esperon)
+
+02    Changed the moves of the spawned undead to zero (for their first turn)
        (thanks Limabean)
-
-
-Changelog Antar                Version 0.8.14                Upload xx.xx.2012
-
+03    Changed the code, so the Dwarves can come faster (1 turn) to the battlescene
+       (thanks Limabean)
 
 
 
