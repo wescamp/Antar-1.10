@@ -106,15 +106,21 @@ Did a compete workover for all Elorial Din advancements
 06    Reduced the Yetis attack-damage and movement
 
 
+
 Changelog Antar                Version 0.8.14                Upload 04.06.2012
 
-Did some suggested by Esperon, to make 'Antar, son of Rheor' translatable
+Did some changes suggested by Esperon, to make 'Antar, Son of Rheor' translatable
        (thanks Esperon)
 
 02    Changed the moves of the spawned undead to zero (for their first turn)
        (thanks Limabean)
 03    Changed the code, so the Dwarves can come faster (1 turn) to the battlescene
        (thanks Limabean)
+
+
+Changelog Antar                Version 0.8.15                Upload 03.07.2012
+
+Fixd a typo in the roc_rider's unit.cfg
 
 
 
