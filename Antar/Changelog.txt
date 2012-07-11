@@ -124,4 +124,10 @@ Fixd a typo in the roc_rider's unit.cfg
 
 
 
+Changelog Antar                Version 0.8.16                Upload 04.07.2012
+
+Deleted an empty string that was marked as translatable, that caused a problem with updating the po-files (reported by Esperon)
+
+
+
 
