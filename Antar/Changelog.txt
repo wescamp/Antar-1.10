@@ -130,4 +130,18 @@ Deleted an empty string that was marked as translatable, that caused a problem w
 
 
 
+Changelog Antar                Version 0.8.17                Upload 20.07.2012
+
+Replaced the word 'Ork' with 'Orc' in all scenarios Orcs appear 
+
+01    Reduced hitpoints of the scared Peasant 
+       (thanks to Quincy)
+02    Changed the death-event of the enemy leader for the case the other undead leader is spawned
+02    Added a price for the player (Staff of Kerathur for Gelphrad) if he is able to level Gelphrad in this scenario
+       (thanks Taptap)
+03    Changed the team-color of side 3 (Dwarves) from blue to red
+03    Added a fake side that appears in the status table, so the player don't recognize to soon that Lord Othar is the leader of the Undead.
+       (thanks to Quincy)
+
+
 
