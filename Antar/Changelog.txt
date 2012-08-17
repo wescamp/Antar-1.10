@@ -155,7 +155,7 @@ Fixed a bug in the macro {UNDEAD_DISAPEAR_MESSAGE}
 02	Fixed a bug in with Lord Veogwyns farewell gift. Gelphrad now gets the gift only if he is leveled up.
 
 02	Changed the code of Gelphrads staff.
-	 (thanks to Digi for help with the effect-tag)
+	 (thanks to Dugi for help with the effect-tag)
 
 
 
@@ -163,3 +163,19 @@ Changelog Antar                Version 0.8.19                Upload 06.08.2012
 
 03	Fixed an <invalid WML found> error message
 	 (thanks to The Scripe for reporting)
+03	Fixed a bug in an ON_SIGHTING event, that prevented the dwarves from appearing
+
+
+
+Changelog Antar                Version 0.8.20                Upload 15.08.2012
+
+Fixed a wrong path to that make some images not visible to non windows users.
+	 (thanks to TheScribe and Kanzil for reporting; and to Anonymissimus for analysing and fixing the error)
+
+01	Added reduced hitpoints to Balder
+01	Added reduced hitpoints to Yeres
+
+05	Added a 'kill the Yeti' to the objectives after the Yeti is spawned.
+	 (thanke to TheSribe for pointing me)
+
+08	Fixed the 'not to capture allied villages' message (works only BfW 1.10.3 or later)
