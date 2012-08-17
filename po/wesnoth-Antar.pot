@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-07-11 15:24-0400\n"
+"POT-Creation-Date: 2012-08-17 14:36-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,7 +12,7 @@ msgstr ""
 
 #. [campaign]: id=Antar
 #. [editor_group]: id=ASoR
-#: ./Antar/_main.cfg:9 ./Antar/_main.cfg:203
+#: ./Antar/_main.cfg:9 ./Antar/_main.cfg:207
 msgid "Antar, Son of Rheor"
 msgstr ""
 
@@ -22,37 +22,37 @@ msgid "ASoR"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:14
+#: ./Antar/_main.cfg:15
 msgid "Fencer"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:14
+#: ./Antar/_main.cfg:15
 msgid "(easy)"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:15
+#: ./Antar/_main.cfg:16
 msgid "Duelist"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:15
+#: ./Antar/_main.cfg:16
 msgid "(normal)"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:16
+#: ./Antar/_main.cfg:17
 msgid "(hard)"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:16
+#: ./Antar/_main.cfg:17
 msgid "Master at Arms"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:18
+#: ./Antar/_main.cfg:19
 msgid ""
 "This is the story about a young Lord and his first mission; \n"
 "sent by his father the young Lord Antar has to relieve his neighbours;\n"
@@ -64,14 +64,14 @@ msgstr ""
 
 #. [campaign]: id=Antar
 #. [message]: speaker=Antar
-#: ./Antar/_main.cfg:24 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:516 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:519
+#: ./Antar/_main.cfg:25 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:519 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:522
 msgid ""
 "\n"
 "	"
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:26
+#: ./Antar/_main.cfg:27
 msgid ""
 "\n"
 "Please leave a comment on:\n"
@@ -79,37 +79,40 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=Antar
-#: ./Antar/_main.cfg:33
+#: ./Antar/_main.cfg:34
 msgid "To be continued..."
 msgstr ""
 
 #. [about]
-#: ./Antar/_main.cfg:42
+#: ./Antar/_main.cfg:43
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: ./Antar/_main.cfg:49
+#: ./Antar/_main.cfg:50
 msgid "WML Help:"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:51
+#. Like the "Dear X," line of a letter
+#: ./Antar/_main.cfg:53
 msgid "Wesnoth forum community,"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:54
+#: ./Antar/_main.cfg:56
 msgid "I thank you all for helping me with this campaign. Thanks to all."
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:58
+#. These are usernames; we are only marking this translatable because of the semicolon and comma
+#. Like the "Dear X," line of a letter
+#: ./Antar/_main.cfg:62
 msgid "Anonymissimus; zookeeper,"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:61
+#: ./Antar/_main.cfg:65
 msgid ""
 "a special thanks to you;\n"
 "you answered almost every question I posted on the forum.\n"
@@ -117,122 +120,122 @@ msgid ""
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:67
+#: ./Antar/_main.cfg:71
 msgid "Various mainline and user-made campaigns, especially:"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:70
+#: ./Antar/_main.cfg:74
 msgid "The Earth’s Gut"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:73
+#: ./Antar/_main.cfg:77
 msgid "Son of the Black-Eye"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:76
+#: ./Antar/_main.cfg:80
 msgid "The Fellowship of the Clay"
 msgstr ""
 
 #. [about]
-#: ./Antar/_main.cfg:80
+#: ./Antar/_main.cfg:84
 msgid "Text Correction:"
 msgstr ""
 
 #. [about]
-#: ./Antar/_main.cfg:90
+#: ./Antar/_main.cfg:94
 msgid "Playtesting"
 msgstr ""
 
 #. [about]
-#: ./Antar/_main.cfg:106
+#: ./Antar/_main.cfg:110
 msgid "Portraits that I frankenseined originally made by:"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:120
+#: ./Antar/_main.cfg:124
 msgid "And all the artists I forgot to mention"
 msgstr ""
 
 #. [about]
-#: ./Antar/_main.cfg:124
+#: ./Antar/_main.cfg:128
 msgid "Art"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:126
+#: ./Antar/_main.cfg:130
 msgid "Wesnoth core"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:129
+#: ./Antar/_main.cfg:133
 msgid "Sceptre of Fire"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:132
+#: ./Antar/_main.cfg:136
 msgid "The Hammer of Thursagan"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:135
+#: ./Antar/_main.cfg:139
 msgid "Heir to the Throne"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:138
+#: ./Antar/_main.cfg:142
 msgid "Bob’s Bestiary"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:141
+#: ./Antar/_main.cfg:145
 msgid "Era of Magic"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:144
+#: ./Antar/_main.cfg:148
 msgid "Flight for Freedom"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:147
+#: ./Antar/_main.cfg:151
 msgid "Invasion from the Unknown"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:150
+#: ./Antar/_main.cfg:154
 msgid "Northern Rebirth"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:153
+#: ./Antar/_main.cfg:157
 msgid "Liberty"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:156
+#: ./Antar/_main.cfg:160
 msgid "Under the Burning Suns"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:159
+#: ./Antar/_main.cfg:163
 msgid "Legend of Wesmere"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:162
+#: ./Antar/_main.cfg:166
 msgid "Delfador’s Memoirs"
 msgstr ""
 
 #. [entry]
-#: ./Antar/_main.cfg:165
+#: ./Antar/_main.cfg:169
 msgid "WTactics"
 msgstr ""
 
 #. [about]
-#: ./Antar/_main.cfg:169
+#: ./Antar/_main.cfg:173
 msgid "Music"
 msgstr ""
 
@@ -247,7 +250,7 @@ msgid "Attack Of The Undead"
 msgstr ""
 
 #. [side]: type=Antar_Fencer, id=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:147 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:160 ./Antar/scenarios/02_Lord_Veogwyn.cfg:143 ./Antar/scenarios/02_Lord_Veogwyn.cfg:149 ./Antar/scenarios/03_Lord_Othar.cfg:178 ./Antar/scenarios/03_Lord_Othar.cfg:184 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:48 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:54 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:157 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:164 ./Antar/scenarios/06_Dwarven_Pass.cfg:301 ./Antar/scenarios/06_Dwarven_Pass.cfg:307 ./Antar/scenarios/08_The_Dwarves.cfg:201 ./Antar/scenarios/08_The_Dwarves.cfg:207 ./Antar/scenarios/17_Epilogue.cfg:13 ./Antar/scenarios/17_Epilogue.cfg:19
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:147 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:160 ./Antar/scenarios/02_Lord_Veogwyn.cfg:204 ./Antar/scenarios/02_Lord_Veogwyn.cfg:210 ./Antar/scenarios/03_Lord_Othar.cfg:181 ./Antar/scenarios/03_Lord_Othar.cfg:187 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:48 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:54 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:157 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:164 ./Antar/scenarios/06_Dwarven_Pass.cfg:304 ./Antar/scenarios/06_Dwarven_Pass.cfg:310 ./Antar/scenarios/08_The_Dwarves.cfg:202 ./Antar/scenarios/08_The_Dwarves.cfg:208 ./Antar/scenarios/17_Epilogue.cfg:13 ./Antar/scenarios/17_Epilogue.cfg:19
 msgid "Antar"
 msgstr ""
 
@@ -266,101 +269,124 @@ msgstr ""
 msgid "Malbeth"
 msgstr ""
 
+#. [side]
 #. [side]: type=Dark Adept, id=Malbeth
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:206
-msgid "Undead"
+#. [side]: type=Death Knight, id=Hadrador
+#. [side]: type=Death Knight, id=Lord Baruch
+#. [side]: type=Death Knight, id=Lord Menachem
+#. [side]: type=Fog Clearer, id=Fake Othar
+#. [side]: type=Fog Clearer, id=Undead
+#. [side]: type=Goblin Rouser, id=Goblinleader
+#. [side]: type=Orcish Leader, id=Ammon
+#. [side]: type=Orcish Leader, id=Hida'tul
+#. [side]: type=Orcish Ruler, id=Goran Baal
+#. [side]: type=Orcish Sovereign, id=Hag`ta`morg
+#. [side]: type=Orcish Warlord, id=Sammual
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:206 ./Antar/scenarios/02_Lord_Veogwyn.cfg:287 ./Antar/scenarios/02_Lord_Veogwyn.cfg:315 ./Antar/scenarios/03_Lord_Othar.cfg:253 ./Antar/scenarios/03_Lord_Othar.cfg:286 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:82 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:207 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:238 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:270 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:302 ./Antar/scenarios/07_Revenge.cfg:357 ./Antar/scenarios/08_The_Dwarves.cfg:379 ./Antar/scenarios/08_The_Dwarves.cfg:421 ./Antar/scenarios/08_The_Dwarves.cfg:457 ./Antar/scenarios/08_The_Dwarves.cfg:480
+msgid "Enemy"
 msgstr ""
 
 #. [side]
+#. [side]: type=ASoR_Gomdring, id=Gomdring
+#. [side]: type=Dwarvish Berserker, id=Aigatsil
+#. [side]: type=Dwarvish Steelclad, id=Ambergur
+#. [side]: type=Dwarvish Steelclad, id=Nardris
+#. [side]: type=Dwarvish Steelclad, id=Noringgurt
+#. [side]: type=Elorial_L_2, id=Elorial Din
 #. [side]: type=General, id=Lord Veogwyn
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:232 ./Antar/scenarios/02_Lord_Veogwyn.cfg:191
-msgid "Good Guys"
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:240 ./Antar/scenarios/02_Lord_Veogwyn.cfg:251 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:188 ./Antar/scenarios/07_Revenge.cfg:398 ./Antar/scenarios/08_The_Dwarves.cfg:232 ./Antar/scenarios/08_The_Dwarves.cfg:252 ./Antar/scenarios/08_The_Dwarves.cfg:282 ./Antar/scenarios/08_The_Dwarves.cfg:321 ./Antar/scenarios/08_The_Dwarves.cfg:356
+msgid "Ally"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:258 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:554
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:266 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:576
 msgid "Defeat Malbeth"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:262 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:558
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:270 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:580
 msgid "Death of Lord Rheor"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:266 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:562 ./Antar/scenarios/02_Lord_Veogwyn.cfg:88 ./Antar/scenarios/02_Lord_Veogwyn.cfg:341 ./Antar/scenarios/03_Lord_Othar.cfg:132 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:142 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:107 ./Antar/scenarios/06_Dwarven_Pass.cfg:37 ./Antar/scenarios/08_The_Dwarves.cfg:78
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:274 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:584 ./Antar/scenarios/02_Lord_Veogwyn.cfg:89 ./Antar/scenarios/02_Lord_Veogwyn.cfg:401 ./Antar/scenarios/03_Lord_Othar.cfg:135 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:142 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:107 ./Antar/scenarios/06_Dwarven_Pass.cfg:37 ./Antar/scenarios/08_The_Dwarves.cfg:78
 msgid "Death of Antar"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:270 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:566 ./Antar/scenarios/02_Lord_Veogwyn.cfg:92 ./Antar/scenarios/02_Lord_Veogwyn.cfg:345 ./Antar/scenarios/03_Lord_Othar.cfg:136 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:146 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:115 ./Antar/scenarios/06_Dwarven_Pass.cfg:41 ./Antar/scenarios/08_The_Dwarves.cfg:82
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:278 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:588 ./Antar/scenarios/02_Lord_Veogwyn.cfg:93 ./Antar/scenarios/02_Lord_Veogwyn.cfg:405 ./Antar/scenarios/03_Lord_Othar.cfg:139 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:146 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:115 ./Antar/scenarios/06_Dwarven_Pass.cfg:41 ./Antar/scenarios/08_The_Dwarves.cfg:82
 msgid "Death of Dagor"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:274 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:570 ./Antar/scenarios/02_Lord_Veogwyn.cfg:104 ./Antar/scenarios/02_Lord_Veogwyn.cfg:353 ./Antar/scenarios/03_Lord_Othar.cfg:144 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:154 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:123 ./Antar/scenarios/06_Dwarven_Pass.cfg:49 ./Antar/scenarios/07_Revenge.cfg:469 ./Antar/scenarios/07_Revenge.cfg:734 ./Antar/scenarios/08_The_Dwarves.cfg:94
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:282 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:592 ./Antar/scenarios/02_Lord_Veogwyn.cfg:105 ./Antar/scenarios/02_Lord_Veogwyn.cfg:413 ./Antar/scenarios/03_Lord_Othar.cfg:147 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:154 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:123 ./Antar/scenarios/06_Dwarven_Pass.cfg:49 ./Antar/scenarios/07_Revenge.cfg:469 ./Antar/scenarios/07_Revenge.cfg:734 ./Antar/scenarios/08_The_Dwarves.cfg:94
 msgid "Turns run out"
 msgstr ""
 
 #. [unit]: type=White Mage, id=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:293
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:310
 msgid "Dagor"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:317 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:325
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:334 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:342
 msgid "Hmmm...!"
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:330
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:347
 msgid "Wise Dagor, why are you so concerned?"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:335
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:352
 msgid "My Lord, I can sense dark magic, it feels very ominous"
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:339
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:356
 msgid "Hmm ... ."
 msgstr ""
 
-#. [message]: speaker=Careonryn
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:353
-msgid "My Lord, one of the peasants, he looks very scared."
-msgstr ""
-
-#. [message]: speaker=Brandner
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:357
-msgid "My Lord, horrors! We’re being invaded by terrifying creatures."
-msgstr ""
-
-#. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:371
-msgid "He hides himself in the woods, he is really scared. What has he seen?"
+#. [unit]: type=Peasant, id=Brandner
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:369
+msgid "Brandner"
 msgstr ""
 
 #. [message]: speaker=Careonryn
 #: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:375
+msgid "My Lord, one of the peasants, he looks very scared."
+msgstr ""
+
+#. [message]: speaker=Brandner
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:379
+msgid "My Lord, horrors! We’re being invaded by terrifying creatures."
+msgstr ""
+
+#. [message]: speaker=Lord Rheor
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:393
+msgid "He hides himself in the woods, he is really scared. What has he seen?"
+msgstr ""
+
+#. [message]: speaker=Careonryn
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:397
 msgid "My Lord, we should mobilize our troops."
 msgstr ""
 
 #. [unit]: type=Knight, id=Balder
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:390
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:411
 msgid "Balder"
 msgstr ""
 
 #. [message]: speaker=Balder
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:401
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:423
 msgid ""
 " *breathless*\n"
 "Lord Rheor! Lord Rheor!"
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:406
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:428
 msgid ""
 "Report, Knight. Who are you? Why are you breathless?\n"
 "\n"
@@ -375,7 +401,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Balder
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:419
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:441
 msgid ""
 "Yes Sir.\n"
 "\n"
@@ -384,7 +410,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Balder
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:426
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:448
 msgid ""
 "Lord Othar is surrounded by a huge army of Undead.\n"
 "My sovereign defends the fortress, but we don’t have enough men.\n"
@@ -393,7 +419,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:433
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:455
 msgid ""
 "*calls his son*\n"
 "\n"
@@ -401,12 +427,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:445
+#. [message]: speaker=Gelphrad
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:467 ./Antar/scenarios/02_Lord_Veogwyn.cfg:1301
 msgid "Yes, my Lord."
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:449
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:471
 msgid ""
 "Antar my son, this is a bad situation.\n"
 "Our land is threatened and an old friend who is like a brother to me is in the direst need.\n"
@@ -414,12 +441,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:455
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:477
 msgid "You are old enough for your first your fist command."
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:459
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:481
 msgid ""
 "I leave the loyal Careonryn and Master Dagor here.\n"
 "My son! I leave you because I trust you!\n"
@@ -427,12 +454,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:465
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:487
 msgid "As you command, my Lord."
 msgstr ""
 
 #. [message]: speaker=Lord Rheor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:469
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:491
 msgid ""
 "Don`t lose heart!\n"
 "\n"
@@ -443,17 +470,17 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Malbeth
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:524
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:546
 msgid "Wake up my soldiers! Wake up and rise once again! One last march and one last fight."
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:534
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:556
 msgid "Hell, what is this?"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:542
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:564
 msgid ""
 "Malbeth has raised the bodies of the dead.\n"
 "\n"
@@ -461,27 +488,27 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:548
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:570
 msgid "For this you will die, Malbeth."
 msgstr ""
 
 #. [unit]: type=Ruffian_Peasant, id=Lowitz
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:612
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:634
 msgid "Lowitz"
 msgstr ""
 
 #. [unit]: type=Peasant, id=Segurd
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:630
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:652
 msgid "Segurd"
 msgstr ""
 
 #. [message]: speaker=Segurd
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:645
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:667
 msgid "A soldier of our Lord, it is good that you have come. Terrible things happened here."
 msgstr ""
 
 #. [message]: speaker=Lowitz
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:651
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:673
 msgid ""
 "Terrible, terrible things. Horror!\n"
 "Living dead, they came and killed everybody.\n"
@@ -490,7 +517,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Segurd
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:660
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:682
 msgid ""
 "All have fled and are hiding somewhere.\n"
 "But we are not cowards.\n"
@@ -499,45 +526,45 @@ msgstr ""
 
 #. [message]: speaker=Dagor
 #. [message]: speaker=Lowitz
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:713 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:719
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:735 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:741
 msgid "They killed eveybody in this village! Poor souls, poor souls."
 msgstr ""
 
 #. [message]: speaker=Dagor
 #. [message]: speaker=Lowitz
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:739 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:745
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:761 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:767
 msgid "Poor souls, poor souls."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:765
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:787
 msgid "We must try to save the villages, too much villagers died a terrifying death."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:806
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:828
 msgid "This is good defensive ground."
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:810
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:832
 msgid "Here we can massacre the Undead."
 msgstr ""
 
 #. [message]: speaker=Antar
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:825 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:835
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:847 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:857
 msgid "The sun rises."
 msgstr ""
 
 #. [message]: speaker=Antar
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:829 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:839
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:851 ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:861
 msgid "Now is time to strike back."
 msgstr ""
 
 #. [message]: speaker=Malbeth
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:931
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:953
 msgid ""
 " *mad*\n"
 "\n"
@@ -545,71 +572,71 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:956
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:978
 msgid "Die! Die and rest for ever."
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:974
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:996
 msgid "Back to where you came from, back into your dark grave!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:985
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1007
 msgid "Master, I have failed. Arghh...!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:989
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1011
 msgid "Die, for the peace of this country!"
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1034
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1041
 msgid "The battle is won, my Lord!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1040 ./Antar/scenarios/08_The_Dwarves.cfg:1894
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1047 ./Antar/scenarios/08_The_Dwarves.cfg:1882
 msgid "The battle is won!"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1046
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1053
 msgid ""
 "I am not sure ...\n"
 "I have a feeling that this is only the beginning ... "
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1051
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1058
 msgid "What do you mean, Dagor."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1055
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1062
 msgid "I can feel a very strong, dark and evil power."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1059
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1066
 msgid "Hmmm!?"
 msgstr ""
 
 #. [unit]: type=Knight, id=Yeres
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1093
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1100
 msgid "Yeres"
 msgstr ""
 
 #. [message]: speaker=Yeres
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1107
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1115
 msgid ""
 "*breathless*\n"
 "My Lord!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1112
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1120
 msgid ""
 "Another rider?\n"
 "\n"
@@ -617,7 +644,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Yeres
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1118
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1126
 msgid ""
 "No Sir.\n"
 "My name is Yeres.\n"
@@ -627,271 +654,289 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1126
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1134
 msgid "Lord Veogwyn is also attacked by Undead?"
 msgstr ""
 
 #. [message]: speaker=Yeres
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1130
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1138
 msgid "Yes, they came without warning."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1134
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1142
 msgid "It seems like those Undead want to exterminate every living thing."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1138
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1146
 msgid "Lord Rheor is not present. I am Antar, Lord Rheors son. Tell your sovereign that I will come to your aid."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1142
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1150
 msgid "As Long as we are able to breathe and carry arms there is hope. I am sure we will find a way to defeat the forces of evil."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1173
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1181
 msgid "We’re surrounded! No reinforcements! We're doomed!"
 msgstr ""
 
 #. [message]: speaker=Gelphrad
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:42
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:43
 msgid "You won't get me ... huh, humans! You are not under Lord Veogwyns command."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:46
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:47
 msgid "No, Lord Antar is our souvereign."
 msgstr ""
 
 #. [message]: speaker=Gelphrad
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:56
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:57
 msgid "Are you a mage?"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:62
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:63
 msgid "This boy is unlike... I can sense a kind of magic in this man-child and the magic... not skilled... but it is extraordinary strong."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:66
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:67
 msgid "Come with me as my apprentice. I'll teach you, and you will become a great magician, of that I am certain."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:70
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:71
 msgid "Mages are rare these days, we have to save the life of this young man."
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:76 ./Antar/scenarios/02_Lord_Veogwyn.cfg:333
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:77 ./Antar/scenarios/02_Lord_Veogwyn.cfg:393
 msgid "Save Lord Veogwyn and"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:80
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:81
 msgid "Save Gelphrads life and"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:84 ./Antar/scenarios/02_Lord_Veogwyn.cfg:337
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:85 ./Antar/scenarios/02_Lord_Veogwyn.cfg:397
 msgid "Defeat Enemy Leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:96 ./Antar/scenarios/03_Lord_Othar.cfg:140 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:150 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:119 ./Antar/scenarios/06_Dwarven_Pass.cfg:45 ./Antar/scenarios/08_The_Dwarves.cfg:86
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:97 ./Antar/scenarios/03_Lord_Othar.cfg:143 ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:150 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:119 ./Antar/scenarios/06_Dwarven_Pass.cfg:45 ./Antar/scenarios/08_The_Dwarves.cfg:86
 msgid "Death of Gelphrad"
 msgstr ""
 
 #. [objective]: condition=lose
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:100 ./Antar/scenarios/02_Lord_Veogwyn.cfg:349
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:101 ./Antar/scenarios/02_Lord_Veogwyn.cfg:409
 msgid "Death of Lord Veogwyn"
+msgstr ""
+
+#. [message]: speaker=Lord Veogwyn
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:128
+msgid ""
+"*to Gelphrad*\n"
+"Now you are going to be a Mage, take these staff with you.\n"
+"I am sure you can use its power.\n"
+"Use it well."
+msgstr ""
+
+#. [message]: speaker=Gelphrad
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:135
+msgid "Thank you my Lord."
+msgstr ""
+
+#. [object]
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:141
+msgid "Staff of Kerathur"
+msgstr ""
+
+#. [object]
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:143
+msgid "This staff increases magic damages by 20%, and is much more practical in melee combat."
 msgstr ""
 
 #. [scenario]: id=Lord_Veogwyn
 #. [side]: type=General, id=Lord Veogwyn
 #. [unit]: type=Death Knight, id=Lord Veogwyn Evil
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:127 ./Antar/scenarios/02_Lord_Veogwyn.cfg:162 ./Antar/utils/evil_utils.cfg:45 ./Antar/utils/evil_utils.cfg:51
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:188 ./Antar/scenarios/02_Lord_Veogwyn.cfg:222 ./Antar/utils/evil_utils.cfg:45 ./Antar/utils/evil_utils.cfg:51
 msgid "Lord Veogwyn"
 msgstr ""
 
 #. [side]: type=Death Knight, id=Hadrador
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:204
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:263
 msgid "Hadrador"
 msgstr ""
 
-#. [side]
-#. [side]: type=Death Knight, id=Hadrador
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:220 ./Antar/scenarios/02_Lord_Veogwyn.cfg:249
-msgid "Bad Guys"
-msgstr ""
-
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:465
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:525
 msgid "I hope we are not to late."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:508
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:566
 msgid "Looks like we will get help!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:529
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:587
 msgid "I am Lord Antar. We are your relief!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:535
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:593
 msgid "We are in Lord Antars service. We are your relief!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:542
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:600
 msgid "Hang on, brave soldier! We must break the siege. Together we will defeat these abnormal warriors."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:549
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:607
 msgid "You are welcome!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:572
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:629
 msgid "<b>Undead!</b> There they are!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:651
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:715
 msgid "A Undead!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:655
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:719
 msgid "Be careful, enemies may hide in the houses!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:673
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:737
 msgid "I found 50 pieces of gold!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:690
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:754
 msgid "Damn! More of them!"
 msgstr ""
 
 #. [unit]: type=Dark Sorcerer, id=Hegklad
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:726
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:790
 msgid "Hegklad"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:736
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:800
 msgid "More Undead!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:770
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:833
 msgid "There is an old, ruined Castle. But it seems to be in good enough condition to recruit from."
 msgstr ""
 
 #. [unit]: type=Horseman, id=Warven
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:823
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:885
 msgid "Warven"
 msgstr ""
 
 #. [message]: speaker=Warven
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:828
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:891
 msgid "The Undeads getting reinforcements; They are right behind me!"
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:832
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:895
 msgid "Damn! This is is quite unexpected"
 msgstr ""
 
 #. [message]: speaker=Hadrador
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:836
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:899
 msgid "Harhar!"
 msgstr ""
 
 #. [message]: speaker=$nearest_human1.id
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:872
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:935
 msgid "Their reinforcements are here!"
 msgstr ""
 
 #. [message]: speaker=Hadrador
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:885
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:948
 msgid "Surrender or prepare to die humans!"
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:889
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:952
 msgid "Men, you know what to do!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:893
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:956
 msgid "Bring me his skull!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:916
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:979
 msgid "Die, and stay in your grave."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:931
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:994
 msgid "Who is their master? Who raised all this creatures?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:948
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1011
 msgid "These are not only living dead, they are stronger and much more dangerous!"
 msgstr ""
 
 #. [message]: speaker=Hegklad
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:959
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1022
 msgid "Kill them all!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:970
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1033
 msgid "Arghh...I am mortally wounded."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:978
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1041
 msgid "We have failed our mission!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:990 ./Antar/scenarios/02_Lord_Veogwyn.cfg:1005
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1053 ./Antar/scenarios/02_Lord_Veogwyn.cfg:1072
 msgid "Arghh...!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:994
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1061
 msgid "For the peace of this country!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1013
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1080
 msgid "Die Witch-master!"
 msgstr ""
 
 #. [message]: speaker=Careonryn
 #. [message]: speaker=Gelphrad
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1054 ./Antar/scenarios/02_Lord_Veogwyn.cfg:1060
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1163 ./Antar/scenarios/02_Lord_Veogwyn.cfg:1169
 msgid "We defeated the Undead, My Lord!"
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1102
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1211
 msgid ""
 "Lord Antar, I am forever in your debt.\n"
 "\n"
@@ -900,74 +945,74 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1109
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1218
 msgid "You would have done the same for us."
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1113
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1222
 msgid "If you ever need my assistance, I will come and stand with you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1117
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1226
 msgid "After pleasantries had been exchanged, they moved into serious discussion."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1122
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1231
 msgid "My country was attacked by those Undead, before you called me in dire need."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1126
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1235
 msgid ""
 "Did you receive a message from Lord Othar, our western neighbour?\n"
 "He sent for relief, my father set off in aid."
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1131
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1240
 msgid "Only rumours... bad rumours..."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1135
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1244
 msgid "I think we should find out if he is in need our of help."
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1139
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1248
 msgid "I can not go with you. I have to care for my people after this hard attack. We have lost many with more wounded."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1143
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1252
 msgid "My men fare no better, but alas."
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1147
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1256
 msgid "I can not go until everything is settled here."
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1151
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1260
 msgid "I will send some of my heavy infantry with you."
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1152
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1261
 msgid "That’s all I can do for now."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1156
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1265
 msgid "You can now recruit Heavy Infantrymen"
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1167
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1276
 msgid ""
 "*To Dagor*\n"
 "Master Dagor,\n"
@@ -979,8 +1024,18 @@ msgid ""
 "His name is <i>Gelphrad</i>."
 msgstr ""
 
+#. [message]: speaker=Lord Veogwyn
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1287
+msgid "Gelphrad, come here."
+msgstr ""
+
+#. [message]: speaker=Lord Veogwyn
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1305
+msgid "This is the boy."
+msgstr ""
+
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1188
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1309
 msgid ""
 "This boy is unlike any other.\n"
 "I can sense a kind of magic in this man-child.\n"
@@ -988,171 +1043,182 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1194
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1315
 msgid "Come with me as my apprentice. I will teach you, and you will become a great magician, of that I am certain."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1198
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1319
 msgid "Mages are rare in these days, we have to save the life of this young man."
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1202 ./Antar/scenarios/02_Lord_Veogwyn.cfg:1211
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1323 ./Antar/scenarios/02_Lord_Veogwyn.cfg:1333
 msgid "Take care that Gelphrad becomes a mage. Save his life!"
 msgstr ""
 
 #. [message]: speaker=Lord Veogwyn
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1217
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1339
 msgid "Good luck, my friend."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1221
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1343
 msgid "Without further ado, Lord Antar was on the march again."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1255
+#: ./Antar/scenarios/02_Lord_Veogwyn.cfg:1377
 msgid "We’re surrounded! I can see their reinforcements! All is lost!"
 msgstr ""
 
 #. [unit]: id=Garulf, type=Dwarvish Fighter
-#: ./Antar/scenarios/03_Lord_Othar.cfg:19
+#: ./Antar/scenarios/03_Lord_Othar.cfg:22
 msgid "Garulf"
 msgstr ""
 
 #. [unit]: id=Grimbold, type=Dwarvish Guardsman
-#: ./Antar/scenarios/03_Lord_Othar.cfg:38
+#: ./Antar/scenarios/03_Lord_Othar.cfg:41
 msgid "Grimbold"
 msgstr ""
 
 #. [unit]: id=Toughkon, type=Dwarvish Thunderguard
-#: ./Antar/scenarios/03_Lord_Othar.cfg:52
+#: ./Antar/scenarios/03_Lord_Othar.cfg:55
 msgid "Toughkon"
 msgstr ""
 
 #. [unit]: id=Dunamus, type=Dwarvish Fighter
-#: ./Antar/scenarios/03_Lord_Othar.cfg:66
+#: ./Antar/scenarios/03_Lord_Othar.cfg:69
 msgid "Dunamus"
 msgstr ""
 
 #. [unit]: id=Dunamil, type=Dwarvish Fighter
-#: ./Antar/scenarios/03_Lord_Othar.cfg:80
+#: ./Antar/scenarios/03_Lord_Othar.cfg:83
 msgid "Dunamil"
 msgstr ""
 
 #. [unit]: id=Dorobald, type=Dwarvish Thunderer
-#: ./Antar/scenarios/03_Lord_Othar.cfg:94
+#: ./Antar/scenarios/03_Lord_Othar.cfg:97
 msgid "Dorobald"
 msgstr ""
 
 #. [objective]: condition=win
-#: ./Antar/scenarios/03_Lord_Othar.cfg:128
+#: ./Antar/scenarios/03_Lord_Othar.cfg:131
 msgid "{STATUSYESNO}."
 msgstr ""
 
-#. [scenario]: id=Lord_Othar, (id=Othar
+#. [scenario]: id=Lord_Othar, (id=Othar, (id=Othar) facing se}
 #. [side]: type=Dark Sorcerer, id=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:162 ./Antar/scenarios/03_Lord_Othar.cfg:228
+#: ./Antar/scenarios/03_Lord_Othar.cfg:165 ./Antar/scenarios/03_Lord_Othar.cfg:197 ./Antar/scenarios/03_Lord_Othar.cfg:205
 msgid "Lord Othar"
 msgstr ""
 
-#. [unit]: id=Gelphrad, type=Gelphrad_Level_0
-#. [unit]: type=Gelphrad_Level_0, id=Gelphrad
-#: ./Antar/scenarios/03_Lord_Othar.cfg:190 ./Antar/scenarios/03_Lord_Othar.cfg:346
-msgid "Gelphrad"
-msgstr ""
-
-#. [side]: type=Dark Sorcerer, id=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:208
-msgid "Othar"
-msgstr ""
-
 #. [side]
-#: ./Antar/scenarios/03_Lord_Othar.cfg:242
+#: ./Antar/scenarios/03_Lord_Othar.cfg:216
 msgid "Dwarves"
 msgstr ""
 
 #. [side]
-#: ./Antar/scenarios/03_Lord_Othar.cfg:253
+#: ./Antar/scenarios/03_Lord_Othar.cfg:227
 msgid "Wolf"
 msgstr ""
 
+#. [side]: type=Fog Clearer, id=Fake Othar
+#: ./Antar/scenarios/03_Lord_Othar.cfg:245
+msgid "Fake Othar"
+msgstr ""
+
+#. [side]: type=Fog Clearer, id=Undead
+#: ./Antar/scenarios/03_Lord_Othar.cfg:278
+msgid ""
+msgstr ""
+
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:309
+#: ./Antar/scenarios/03_Lord_Othar.cfg:345
 msgid "We are almost there. Behind these mountains is Lord Othar's castle."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:313
+#: ./Antar/scenarios/03_Lord_Othar.cfg:349
 msgid "We should be careful. Something is wrong here. I can feel something evil."
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/03_Lord_Othar.cfg:317
+#: ./Antar/scenarios/03_Lord_Othar.cfg:353
 msgid "We must keep together here."
-msgstr ""
-
-#. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:327
-msgid ""
-"*to Gelphrad*\n"
-"You are going to be a Mage, you should no longer wear your peasant clothes."
-msgstr ""
-
-#. [message]: speaker=Gelphrad
-#: ./Antar/scenarios/03_Lord_Othar.cfg:332 ./Antar/scenarios/03_Lord_Othar.cfg:369
-msgid "Yes Master."
 msgstr ""
 
 #. [message]: speaker=Dagor
 #: ./Antar/scenarios/03_Lord_Othar.cfg:364
 msgid ""
 "*to Gelphrad*\n"
+"You are going to be a Mage, you should no longer wear your peasant clothes."
+msgstr ""
+
+#. [message]: speaker=Gelphrad
+#: ./Antar/scenarios/03_Lord_Othar.cfg:369 ./Antar/scenarios/03_Lord_Othar.cfg:405
+msgid "Yes Master."
+msgstr ""
+
+#. [unit]: id=Gelphrad, type=Gelphrad_Level_0
+#: ./Antar/scenarios/03_Lord_Othar.cfg:382
+msgid "Gelphrad"
+msgstr ""
+
+#. [message]: speaker=Dagor
+#: ./Antar/scenarios/03_Lord_Othar.cfg:400
+msgid ""
+"*to Gelphrad*\n"
 "That’s better."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:373
+#: ./Antar/scenarios/03_Lord_Othar.cfg:409
 msgid "And now let’s go."
 msgstr ""
 
+#. [message]: speaker=Dagor
+#: ./Antar/scenarios/03_Lord_Othar.cfg:414
+msgid ""
+"*to Gelphrad*\n"
+"The Staff of Kerathur is a mighty wheapon, but first you must learn how to use it."
+msgstr ""
+
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/03_Lord_Othar.cfg:394
+#: ./Antar/scenarios/03_Lord_Othar.cfg:519
 msgid "TO THE ELVISH OUTPOST!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/03_Lord_Othar.cfg:410
+#: ./Antar/scenarios/03_Lord_Othar.cfg:535
 msgid "PASS TO THE DWARVEN TERRITORY!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/03_Lord_Othar.cfg:445
+#: ./Antar/scenarios/03_Lord_Othar.cfg:569
 msgid "I have never been further than this point."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:449
+#: ./Antar/scenarios/03_Lord_Othar.cfg:573
 msgid "Behind these mountains to the west, lies the territory of the Elves."
 msgstr ""
 
 #. [message]: speaker=Careonryn
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:458 ./Antar/scenarios/03_Lord_Othar.cfg:464
+#: ./Antar/scenarios/03_Lord_Othar.cfg:582 ./Antar/scenarios/03_Lord_Othar.cfg:588
 msgid "And north of us, is the realm of the Dwarves."
 msgstr ""
 
 #. [message]: speaker=Careonryn
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:475 ./Antar/scenarios/03_Lord_Othar.cfg:481
+#: ./Antar/scenarios/03_Lord_Othar.cfg:599 ./Antar/scenarios/03_Lord_Othar.cfg:605
 msgid "Elves and Dwarves are powerful warriors. With them as allies we would have a huge advantage."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:520
+#: ./Antar/scenarios/03_Lord_Othar.cfg:644
 msgid ""
 "*to Gelphrad*\n"
 "Careful my apprentice!\n"
@@ -1160,155 +1226,155 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/03_Lord_Othar.cfg:568
+#: ./Antar/scenarios/03_Lord_Othar.cfg:692
 msgid "Wolves!"
 msgstr ""
 
 #. [message]: speaker=Antar
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/03_Lord_Othar.cfg:581 ./Antar/scenarios/03_Lord_Othar.cfg:587
+#: ./Antar/scenarios/03_Lord_Othar.cfg:705 ./Antar/scenarios/03_Lord_Othar.cfg:711
 msgid "Beware, they came in packs!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/03_Lord_Othar.cfg:604
+#: ./Antar/scenarios/03_Lord_Othar.cfg:728
 msgid "Undead!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:612
+#: ./Antar/scenarios/03_Lord_Othar.cfg:736
 msgid "Seems like Lord Othar is in distress. Come on, let’s hurry! We must save him!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:653
+#: ./Antar/scenarios/03_Lord_Othar.cfg:777
 msgid "Hurry men! Hurry! Lord Othar needs our help. Without it he is lost!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/03_Lord_Othar.cfg:678
+#: ./Antar/scenarios/03_Lord_Othar.cfg:802
 msgid "Look! Humans struggle against the Undead!"
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/03_Lord_Othar.cfg:686
+#: ./Antar/scenarios/03_Lord_Othar.cfg:810
 msgid "We should help them. Humans are our allies."
 msgstr ""
 
 #. [message]: speaker=Grimbold
-#: ./Antar/scenarios/03_Lord_Othar.cfg:690
+#: ./Antar/scenarios/03_Lord_Othar.cfg:814
 msgid "I am not sure, that was long ago."
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/03_Lord_Othar.cfg:694
+#: ./Antar/scenarios/03_Lord_Othar.cfg:818
 msgid "But they fight against the Undead, is this not a good thing?"
 msgstr ""
 
 #. [message]: speaker=Grimbold
-#: ./Antar/scenarios/03_Lord_Othar.cfg:698
+#: ./Antar/scenarios/03_Lord_Othar.cfg:822
 msgid "Tis the Truth! We assist those weak Humans."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:705
+#: ./Antar/scenarios/03_Lord_Othar.cfg:829
 msgid "Dwarves!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:709
+#: ./Antar/scenarios/03_Lord_Othar.cfg:833
 msgid "Well Dwarves, you come to assist us?."
 msgstr ""
 
 #. [message]: speaker=Grimbold
-#: ./Antar/scenarios/03_Lord_Othar.cfg:713
+#: ./Antar/scenarios/03_Lord_Othar.cfg:837
 msgid "It has been a long time since Dwarves fought side by side with Humans."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:717
+#: ./Antar/scenarios/03_Lord_Othar.cfg:841
 msgid "Yes, my father told me that he fought with Dwarves as a young man."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:721
+#: ./Antar/scenarios/03_Lord_Othar.cfg:845
 msgid "He told me about the great Dwarf-warriors... ahm... about the great... ahm... great feats of the Dwarf-warriors."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:725
+#: ./Antar/scenarios/03_Lord_Othar.cfg:849
 msgid "Yes, many long years since then, but now I stand here and ask for your help."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:729
+#: ./Antar/scenarios/03_Lord_Othar.cfg:853
 msgid "The evil is strong in these days. All those who are able and willing to fight the dark forces should stand together now."
 msgstr ""
 
 #. [message]: speaker=Grimbold
-#: ./Antar/scenarios/03_Lord_Othar.cfg:733
+#: ./Antar/scenarios/03_Lord_Othar.cfg:857
 msgid "Well said! Yes, we will help you Humans."
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/03_Lord_Othar.cfg:737
+#: ./Antar/scenarios/03_Lord_Othar.cfg:861
 msgid "Let's smash these wretched skeletons."
 msgstr ""
 
 #. [message]: speaker=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:760
+#: ./Antar/scenarios/03_Lord_Othar.cfg:889
 msgid "Stop you fool!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:764
+#: ./Antar/scenarios/03_Lord_Othar.cfg:893
 msgid "Lord Othar?"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:768
+#: ./Antar/scenarios/03_Lord_Othar.cfg:897
 msgid "The undead are under your command?"
 msgstr ""
 
 #. [message]: speaker=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:772
+#: ./Antar/scenarios/03_Lord_Othar.cfg:901
 msgid "Indeed, young fool. He told me that you will come. I have expected you. I have to stop you."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:776
+#: ./Antar/scenarios/03_Lord_Othar.cfg:905
 msgid "You are in league with the dark forces? Where is my father?"
 msgstr ""
 
 #. [message]: speaker=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:780
+#: ./Antar/scenarios/03_Lord_Othar.cfg:909
 msgid "Your father is lost to the Dark Lord!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:784
+#: ./Antar/scenarios/03_Lord_Othar.cfg:913
 msgid "You betrayed him! Why Othar, why? Once you fought by my father's side. He told me once that you saved each others lives."
 msgstr ""
 
 #. [message]: speaker=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:788
+#: ./Antar/scenarios/03_Lord_Othar.cfg:917
 msgid "Because there is no other way, young fool!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:792
+#: ./Antar/scenarios/03_Lord_Othar.cfg:921
 msgid "There is always another way, Othar."
 msgstr ""
 
 #. [message]: speaker=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:796
+#: ./Antar/scenarios/03_Lord_Othar.cfg:925
 msgid ""
 "*Mad*\n"
 "<i><b>Hahahah!</b></i>"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:801
+#: ./Antar/scenarios/03_Lord_Othar.cfg:930
 msgid ""
 "*Full of hate*\n"
 "You’ll pay for this, Othar. This I swear, you will pay with your life."
@@ -1316,38 +1382,38 @@ msgstr ""
 
 #. [message]: speaker=Careonryn
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:811 ./Antar/scenarios/03_Lord_Othar.cfg:817
+#: ./Antar/scenarios/03_Lord_Othar.cfg:940 ./Antar/scenarios/03_Lord_Othar.cfg:946
 msgid "My Lord, words are useless here, it's too late for him. He is lost."
 msgstr ""
 
 #. [message]: speaker=Grimbold
 #. [message]: speaker=unit
-#: ./Antar/scenarios/03_Lord_Othar.cfg:886 ./Antar/scenarios/06_Dwarven_Pass.cfg:973 ./Antar/scenarios/08_The_Dwarves.cfg:110
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1015 ./Antar/scenarios/06_Dwarven_Pass.cfg:976 ./Antar/scenarios/08_The_Dwarves.cfg:110
 msgid "Arrgghh."
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/03_Lord_Othar.cfg:902
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1031
 msgid "Oh my brother."
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/03_Lord_Othar.cfg:906
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1035
 msgid "We will avenge you my brother, no matter how strong the evil is."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/03_Lord_Othar.cfg:919
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1048
 msgid "Die traitor!"
 msgstr ""
 
 #. [message]: speaker=Othar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:923
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1052
 msgid "Argh! I die! They promised me immortality."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:928
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1057
 msgid ""
 "They have deceived you, Othar!\n"
 "Your path leads nowhere... \n"
@@ -1355,57 +1421,57 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:951
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1076
 msgid "The evil is strong. I think we need help for the upcoming battle."
 msgstr ""
 
 #. [message]: speaker=Careonryn
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:960 ./Antar/scenarios/03_Lord_Othar.cfg:966
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1085 ./Antar/scenarios/03_Lord_Othar.cfg:1091
 msgid "The Elvish woods are not far. We can reach them in a few days. Maybe they are willing to fight on our side."
 msgstr ""
 
 #. [message]: race=dwarf
 #. [message]: speaker=Grimbold
-#: ./Antar/scenarios/03_Lord_Othar.cfg:977 ./Antar/scenarios/03_Lord_Othar.cfg:999
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1102 ./Antar/scenarios/03_Lord_Othar.cfg:1124
 msgid "The mines of our Leader Gomdring are also near. Let’s go to him and renew the old pact between Dwarves and Humans."
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/03_Lord_Othar.cfg:988
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1113
 msgid "The mines of my father Gomdring are also near. Let’s go to him and renew the old pact between Dwarves and Humans."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:1005
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1130
 msgid "The mines of the Dwarv Leader Gomdring are also near. Let’s go to him and renew the old pact between Dwarves and Humans."
 msgstr ""
 
 #. [message]: speaker=Careonryn
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/03_Lord_Othar.cfg:1020 ./Antar/scenarios/03_Lord_Othar.cfg:1026
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1145 ./Antar/scenarios/03_Lord_Othar.cfg:1151
 msgid "The weather is too bad to make it over the high passes with our mounted troops and heavy infantry."
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/03_Lord_Othar.cfg:1032
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1157
 msgid ""
 "*grmpf*\n"
 "Bad weather, bah! Weak Humans!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:1042
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1167
 msgid "Careonryn is right, the pass is surely covered with snow. We move on to the Elvish forest."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/03_Lord_Othar.cfg:1048
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1173
 msgid "Dagor, you are right, the pass is surely covered with snow. We move on to the Elvish forest."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/03_Lord_Othar.cfg:1064
+#: ./Antar/scenarios/03_Lord_Othar.cfg:1189
 msgid "To the elvish forrests."
 msgstr ""
 
@@ -1417,11 +1483,6 @@ msgstr ""
 #. [side]: type=Goblin Rouser, id=Goblinleader
 #: ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:65
 msgid "Goblinleader"
-msgstr ""
-
-#. [side]: type=Goblin Rouser, id=Goblinleader
-#: ./Antar/scenarios/04_Through_The_Goblin_Hills.cfg.cfg:82
-msgid "Goblins"
 msgstr ""
 
 #. [objective]: condition=win
@@ -1529,7 +1590,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:103
-msgid "Defeat enemy leaders"
+msgid "{CURRENT_OBJECTIVES}"
 msgstr ""
 
 #. [objective]: condition=lose
@@ -1547,23 +1608,9 @@ msgstr ""
 msgid "Elorial Din"
 msgstr ""
 
-#. [side]: type=Elorial_L_2, id=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:188 ./Antar/scenarios/07_Revenge.cfg:340
-msgid "Elves"
-msgstr ""
-
 #. [side]: type=Orcish Ruler, id=Goran Baal
 #: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:202
 msgid "Goran Baal"
-msgstr ""
-
-#. [side]: type=Orcish Leader, id=Ammon
-#. [side]: type=Orcish Leader, id=Hida'tul
-#. [side]: type=Orcish Ruler, id=Goran Baal
-#. [side]: type=Orcish Sovereign, id=Hag`ta`morg
-#. [side]: type=Orcish Warlord, id=Sammual
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:207 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:238 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:269 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:300 ./Antar/scenarios/07_Revenge.cfg:357
-msgid "Orcs"
 msgstr ""
 
 #. [side]: type=Orcish Leader, id=Hida'tul
@@ -1577,17 +1624,17 @@ msgid "Ammon"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Sammual
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:296
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:297
 msgid "Sammual"
 msgstr ""
 
 #. [side]
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:328
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:330
 msgid "Monster"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:488
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:491
 msgid ""
 "We made it!\n"
 "Look at these wonderful woods.\n"
@@ -1596,38 +1643,38 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:514
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:517
 msgid ""
 "But, what is that...?\n"
 "Eydàmmers`hül is under attack."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:517
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:520
 msgid ""
 "\n"
 "<b>ORKS!</b>."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:520
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:523
 msgid ""
 "\n"
 "They attack the Elves’ fort?"
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:525
-msgid "Why does it bother you? They're just Orks."
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:528
+msgid "Why does it bother you? They're just Orcs."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:529
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:532
 msgid "We came to ask the Elves for their help, but now it seems <i>they</i> need support."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:533
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:536
 msgid ""
 "We should help the elves.\n"
 "Then they can not refuse our request.\n"
@@ -1636,261 +1683,261 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:545
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:548
 msgid "I have a simple plan, my Lord."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:549
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:552
 msgid "Speak, Garulf."
 msgstr ""
 
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:553
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:556
 msgid ""
 "We go down and cut all of their ugly heads from their bodies.\n"
 "What do you think about that?"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:558
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:561
 msgid "Ähh..."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:564
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:567
 msgid "Attack men! Let’s relieve the Elves."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:574
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:577
 msgid "The Humans come to assist us!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:578
-msgid "Hold on! We will push these filthy Orks back to their mountains!"
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:581
+msgid "Hold on! We will push these filthy Orcs back to their mountains!"
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:582
-msgid "You are welcome, Elven-friends. With your help we will defeat the Orks."
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:585
+msgid "You are welcome, Elven-friends. With your help we will defeat the Orcs."
 msgstr ""
 
 #. [message]: speaker=Antar
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:633 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:639
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:636 ./Antar/scenarios/05_The_Elvish_Outpost.cfg:642
 msgid "Don't capture the elvish villages. That's not a good idea if we want to ask the Elves for their help."
 msgstr ""
 
 #. [message]: speaker=Goran Baal
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:666
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:669
 msgid "One step further and you're dead, human. Run away if you want to stay alive."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:670
-msgid "Shut up, dirty Ork. Why you're here, and not in the mountains in your dirty Ork castles?"
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:673
+msgid "Shut up, dirty Orc. Why you're here, and not in the mountains in your dirty Orc castles?"
 msgstr ""
 
 #. [message]: speaker=Goran Baal
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:674
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:677
 msgid "You better watch how you're talking to me."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:678
-msgid "You can not be trusted Ork rabble. Again you have broken a pact. You know no honor!"
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:681
+msgid "You can not be trusted Orc rabble. Again you have broken a pact. You know no honor!"
 msgstr ""
 
 #. [message]: speaker=Goran Baal
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:682
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:685
 msgid "Wrong human... there's someone who paid us a tidy little sum for this, har har."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:686
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:689
 msgid "So you will be paid for attacking the Elves?"
 msgstr ""
 
 #. [message]: speaker=Goran Baal
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:690
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:693
 msgid "Mal Kazur rewards all those who are devoted to him."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:694
-msgid "Therefore, the great and mighty Orks are mercenaries for these Undead vermin?"
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:697
+msgid "Therefore, the great and mighty Orcs are mercenaries for these Undead vermin?"
 msgstr ""
 
 #. [message]: speaker=Goran Baal
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:698
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:701
 msgid "Enough now! <b>KILL HIM!!!</b>"
 msgstr ""
 
 #. [message]: speaker=Ammon
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:714
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:717
 msgid "Brothers, revenge me. Arghh."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:718
-msgid "Die, filthy Ork!"
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:721
+msgid "Die, filthy Orc!"
 msgstr ""
 
 #. [message]: speaker=Hida'tul
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:732
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:735
 msgid "Noooooooo...."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:736
-msgid "Die Ork. Take a fair reward for your betrayal."
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:739
+msgid "Die Orc. Take a fair reward for your betrayal."
 msgstr ""
 
 #. [message]: speaker=Hida'tul
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:740
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:743
 msgid "I am defeated. But you will never defeat Mal Kazur!"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:745
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:748
 msgid "This name again, Mal Kazur."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:749
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:752
 msgid "I will find him, and then he will pay for all of this outrage."
 msgstr ""
 
 #. [message]: speaker=Goran Baal
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:762
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:765
 msgid "Argh..! Mal Kazur will resurrect me. I will return and take revenge. I will live forever. Mal Kazur promissed this to me."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:767
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:770
 msgid "They all are so fanatical. Never before have I seen such mania."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:771
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:774
 msgid "Mal Kazur has to be stopped, he has to be destroyed."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:775
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:778
 msgid "He will, I promise that, as truly as I stand here."
 msgstr ""
 
 #. [message]: speaker=Sammual
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:788
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:791
 msgid "Ahrgggg... Noooo."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:792
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:795
 msgid "Die betrayer!"
 msgstr ""
 
 #. [message]: speaker=Sammual
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:796
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:799
 msgid "Ahrggg... Mal Kazur... ahh... will be your doom."
 msgstr ""
 
 #. [message]: speaker=Sammual
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:800
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:803
 msgid "But first I have...<i>cough</i>... still a small surprise. Ha <i>cough</i>... haha <i>cough</i>... haha."
 msgstr ""
 
 #. [unit]: id=Reinhold, type=Yeti
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:812
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:815
 msgid " "
 msgstr ""
 
 #. [message]: speaker=Reinhold
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:822
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:825
 msgid "GRRRROARRRR."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:826
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:829
 msgid "Oh no, what is this? I have never seen such an enormous monster."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:859
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:874
 msgid "We have defeated the monster. It was truly huge."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:863
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:878
 msgid "And it smells awful."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:876
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:891
 msgid "I die!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:880
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:895
 msgid "Without the Elves help we are lost!"
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:890
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:905
 msgid "Now that victory is ours, accompany me to my fortress."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:920
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:935
 msgid "The besiegers are defeated."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:924
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:939
 msgid "Thank you, Lord Antar. If you had not intervened when you did, who knows what may have happened to us."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:928
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:943
 msgid "The same that threatens this whole country."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:932
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:947
 msgid "Indeed, my Lord!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:936
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:951
 msgid "But we are here because we wish to ask for your help."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:940
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:955
 msgid "Speak, what leads you to us?"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:944
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:959
 msgid "Our country is threatened and plagued by dark forces. I came to renew the pact my father once made with you. Humans and Elves. We came to ask you for your assistance."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:948
-msgid "Hmm, a serious situation. As we know now, the Orks have been hired to attack us."
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:963
+msgid "Hmm, a serious situation. As we know now, the Orcs have been hired to attack us."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:952
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:967
 msgid "Yes, the Undead are a serious menace. Not only for us humans, Elves and Dwarves are also in danger."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
-#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:956
-msgid "We will help you. But first I will take my revenge on the Orks. This betrayal can not remain unpunished."
+#: ./Antar/scenarios/05_The_Elvish_Outpost.cfg:971
+msgid "We will help you. But first I will take my revenge on the Orcs. This betrayal can not remain unpunished."
 msgstr ""
 
 #. [objective]: condition=win
@@ -1909,263 +1956,263 @@ msgid "female^quick"
 msgstr ""
 
 #. [message]: speaker=Ambros
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:172
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:175
 msgid "Stop, strangers!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:176
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:179
 msgid "We are on the way to the Dwarven territory, we wish only to pass through."
 msgstr ""
 
 #. [message]: speaker=Watzman
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:180
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:183
 msgid "You are welcome. Maybe you can help us?"
 msgstr ""
 
 #. [message]: speaker=Ambros
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:184
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:187
 msgid "Each night our village is haunted by blood-sucking bats. Surely they visited you last night?"
 msgstr ""
 
 #. [message]: speaker=Berg
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:188
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:191
 msgid "We are too weak and we can not fight. We hide and wait until they are gone."
 msgstr ""
 
 #. [message]: speaker=Watzman
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:192
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:195
 msgid "You seem to be powerful warriors."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:196
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:199
 msgid "We have no time to lose. We have to continue."
 msgstr ""
 
 #. [message]: speaker=Watzman
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:200
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:203
 msgid "However, you can defeat them. We beg for your help."
 msgstr ""
 
 #. [message]: speaker=Ambros
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:204
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:207
 msgid "Take our gold. It's not much, only 13 pieces, but it’s all we have. Life is hard here in the mountains."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:208
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:211
 msgid "Will you take the gold and kill the bats?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:211 ./Antar/scenarios/06_Dwarven_Pass.cfg:1065
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:214 ./Antar/scenarios/06_Dwarven_Pass.cfg:1068
 msgid "Yes, lets kill those blood-suckers. (Bonus)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:221
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:224
 msgid "Antar gets 13 pieces of gold."
 msgstr ""
 
 #. [option]: speaker=narrator
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:227 ./Antar/scenarios/06_Dwarven_Pass.cfg:1083
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:230 ./Antar/scenarios/06_Dwarven_Pass.cfg:1086
 msgid "No, we have to reach the Dwarves. (No Bonus)"
 msgstr ""
 
 #. [scenario]: id=Dwarven_Pass, (id=Big Bat
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:279
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:282
 msgid "Dwarven Pass"
 msgstr ""
 
 #. [side]
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:319
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:322
 msgid "Mountain Men"
 msgstr ""
 
 #. [side]: type=Dread Bat, id=Big Bat
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:329
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:332
 msgid "Bats"
 msgstr ""
 
 #. [side]
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:357
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:360
 msgid "Yeti"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:517
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:520
 msgid "Ice and snow."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:521
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:524
 msgid "Quick across the pass, before the weather turns."
 msgstr ""
 
 #. [message]: speaker=Careonryn
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:530 ./Antar/scenarios/06_Dwarven_Pass.cfg:536
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:533 ./Antar/scenarios/06_Dwarven_Pass.cfg:539
 msgid "And stay on the path, don’t get lost!"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:586
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:589
 msgid "The dawn comes."
 msgstr ""
 
 #. [message]: speaker=Careonryn
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:608
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:611
 msgid "The bats flee."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:612
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:615
 msgid "The dawn. The dawn comes and the bats go."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:616
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:619
 msgid "They are hiding somewhere nearby and come out only at night."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:620
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:623
 msgid "Then we are safe as long as it is daytime!"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:624
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:627
 msgid "Yes, but when dusk comes, the bats will return."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:628
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:631
 msgid "OK, let’s find their hiding place and annihilate them."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:638
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:641
 msgid "We should rescue the villagers from their curse. Not because of the gold, but because of our honor."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:746
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:749
 msgid "Look at these tracks. What in Wesnoth has such big feet?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:764
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:767
 msgid "A Monster!"
 msgstr ""
 
 #. [message]: speaker=$sidekick2.id
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:769
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:772
 msgid "A Yeti."
 msgstr ""
 
 #. [message]: speaker=Gelphrad
 #. [message]: speaker=Lowitz
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:778 ./Antar/scenarios/06_Dwarven_Pass.cfg:784
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:781 ./Antar/scenarios/06_Dwarven_Pass.cfg:787
 msgid "I think we have killed his brother recently."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:811
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:814
 msgid ""
 "Wow, look at that big one, its real huge. \n"
 "That’s surely the mother of all bats!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:849
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:852
 msgid "Here is a cave. I bet that’s the bats hiding place."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:885
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:888
 msgid "Here is something."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:900
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:903
 msgid "A dusty old chest."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:905
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:908
 msgid "I count roughly... 50 gold pieces."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:933
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:936
 msgid "Bats!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:937
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:940
 msgid "They attack us!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:955
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:958
 msgid "TO THE DWARVEN TERRITORY!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:981
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:984
 msgid "The stinky fur ball is dead."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:985
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:988
 msgid ""
 "I've never seen such a creature before.\n"
 "And now I’ve seen two within a few days."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:997
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1000
 msgid "Iiiiikkkk."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1013
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1016
 msgid "The rest of the bats flee."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1019
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1022
 msgid "I think the big one was the last."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1025
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1028
 msgid "The cave is cleared."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1062
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1065
 msgid "Will you kill the bats first?"
 msgstr ""
 
 #. [message]: speaker=Ambros
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1104
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1107
 msgid "Stop, give us our gold back!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1108
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1111
 msgid "Here, keep it."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1118
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1121
 msgid "Antar gives back the 13 pieces of gold."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1155
+#: ./Antar/scenarios/06_Dwarven_Pass.cfg:1158
 msgid "Oh no, the weather turns, and my men are too tired. No food and this damn cold! We die here in the ice and snow! All is lost!"
 msgstr ""
 
@@ -2174,15 +2221,14 @@ msgstr ""
 msgid "Revenge"
 msgstr ""
 
+#. [side]: type=Elorial_L_2, id=Elorial Din
+#: ./Antar/scenarios/07_Revenge.cfg:340
+msgid "Elves"
+msgstr ""
+
 #. [side]: type=Orcish Sovereign, id=Hag`ta`morg
 #: ./Antar/scenarios/07_Revenge.cfg:352
 msgid "Hag`ta`morg"
-msgstr ""
-
-#. [modify_side]
-#. [side]
-#: ./Antar/scenarios/07_Revenge.cfg:398 ./Antar/scenarios/07_Revenge.cfg:922
-msgid "Wose"
 msgstr ""
 
 #. [objective]: condition=win
@@ -2198,7 +2244,7 @@ msgstr ""
 #. [message]: speaker=Elorial Din
 #: ./Antar/scenarios/07_Revenge.cfg:508
 msgid ""
-"Let’s bring the war back to the Orks.\n"
+"Let’s bring the war back to the Orcs.\n"
 "\n"
 "<b>ATTACK!</b>"
 msgstr ""
@@ -2291,6 +2337,11 @@ msgstr ""
 msgid "They are so stupid, so stupid!"
 msgstr ""
 
+#. [modify_side]
+#: ./Antar/scenarios/07_Revenge.cfg:922
+msgid "Wose"
+msgstr ""
+
 #. [message]: role=wose_speaker
 #: ./Antar/scenarios/07_Revenge.cfg:941
 msgid "They burnt $firedead.name down! We can not longer be passive."
@@ -2309,7 +2360,7 @@ msgstr ""
 
 #. [message]: role=wose_speaker
 #: ./Antar/scenarios/07_Revenge.cfg:1001
-msgid "Lets smash those Orks!"
+msgid "Lets smash those Orcs!"
 msgstr ""
 
 #. [message]: role=wose_speaker
@@ -2339,7 +2390,7 @@ msgstr ""
 
 #. [message]: speaker=Elorial Din
 #: ./Antar/scenarios/07_Revenge.cfg:1121
-msgid "Now to you, Ork."
+msgid "Now to you, Orc."
 msgstr ""
 
 #. [message]: speaker=Hag`ta`morg
@@ -2362,7 +2413,7 @@ msgstr ""
 
 #. [message]: speaker=Hag`ta`morg
 #: ./Antar/scenarios/07_Revenge.cfg:1209
-msgid "What became of the damn Ork I sent for reinforcements?"
+msgid "What became of the damn Orc I sent for reinforcements?"
 msgstr ""
 
 #. [message]: speaker=Kalldal
@@ -2414,7 +2465,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: ./Antar/scenarios/07_Revenge.cfg:1432
 msgid ""
-"The Orkish leader was talkative...\n"
+"The Orcish leader was talkative...\n"
 "After a long and painful inquiry."
 msgstr ""
 
@@ -2425,32 +2476,32 @@ msgstr ""
 
 #. [message]: speaker=Hag`ta`morg
 #: ./Antar/scenarios/07_Revenge.cfg:1442
-msgid "No, not me, the mighty Ork leader imprisoned? Unthinkable! I’d rather you kill me"
+msgid "No, not me, the mighty Orc leader imprisoned? Unthinkable! I’d rather you kill me"
 msgstr ""
 
 #. [message]: role=elf_fighter
 #: ./Antar/scenarios/07_Revenge.cfg:1458
-msgid "We have captured the megalomaniacal Ork"
+msgid "We have captured the megalomaniacal Orc"
 msgstr ""
 
 #. [message]: speaker=Elorial Din
 #: ./Antar/scenarios/07_Revenge.cfg:1473
-msgid "The surviving Orks have fled to the hills."
+msgid "The surviving Orcs have fled to the hills."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
 #: ./Antar/scenarios/07_Revenge.cfg:1479
-msgid "Every Ork here has been slain, we have left none alive."
+msgid "Every Orc here has been slain, we have left none alive."
 msgstr ""
 
 #. [message]: speaker=second_unit
 #: ./Antar/scenarios/07_Revenge.cfg:1509
-msgid "This Ork has $orc_gold pieces of gold."
+msgid "This Orc has $orc_gold pieces of gold."
 msgstr ""
 
 #. [message]: speaker=Elorial Din
 #: ./Antar/scenarios/07_Revenge.cfg:1518
-msgid "Hag`ta`morg is defeated and imprisoned, and this will be a lesson for the Orks."
+msgid "Hag`ta`morg is defeated and imprisoned, and this will be a lesson for the Orcs."
 msgstr ""
 
 #. [message]: race=elf
@@ -2514,7 +2565,7 @@ msgid "Death of Gomdring (The Leader of the Dwarves)"
 msgstr ""
 
 #. [unit]: id={ID}, type=${ID}_store.type
-#: ./Antar/scenarios/08_The_Dwarves.cfg:135 ./Antar/utils/macros.cfg:243
+#: ./Antar/scenarios/08_The_Dwarves.cfg:135 ./Antar/utils/macros.cfg:307
 msgid "{ID}"
 msgstr ""
 
@@ -2524,48 +2575,37 @@ msgid "The Dwarves"
 msgstr ""
 
 #. [side]: type=Dwarvish Berserker, id=Aigatsil
-#: ./Antar/scenarios/08_The_Dwarves.cfg:219
+#: ./Antar/scenarios/08_The_Dwarves.cfg:220
 msgid "Aigatsil"
 msgstr ""
 
-#. [side]: type=ASoR_Gomdring, id=Gomdring
-#. [side]: type=Dwarvish Berserker, id=Aigatsil
-#. [side]: type=Dwarvish Steelclad, id=Ambergur
 #. [side]: type=Dwarvish Steelclad, id=Nardris
-#. [side]: type=Dwarvish Steelclad, id=Noringgurt
-#: ./Antar/scenarios/08_The_Dwarves.cfg:231 ./Antar/scenarios/08_The_Dwarves.cfg:251 ./Antar/scenarios/08_The_Dwarves.cfg:263 ./Antar/scenarios/08_The_Dwarves.cfg:281 ./Antar/scenarios/08_The_Dwarves.cfg:320 ./Antar/scenarios/08_The_Dwarves.cfg:355
-msgid "Gomdring"
-msgstr ""
-
-#. [side]: type=Dwarvish Steelclad, id=Nardris
-#: ./Antar/scenarios/08_The_Dwarves.cfg:242
+#: ./Antar/scenarios/08_The_Dwarves.cfg:243
 msgid "Nardris"
 msgstr ""
 
+#. [side]: type=ASoR_Gomdring, id=Gomdring
+#: ./Antar/scenarios/08_The_Dwarves.cfg:264
+msgid "Gomdring"
+msgstr ""
+
 #. [side]: type=Dwarvish Steelclad, id=Ambergur
-#: ./Antar/scenarios/08_The_Dwarves.cfg:311
+#: ./Antar/scenarios/08_The_Dwarves.cfg:312
 msgid "Ambergur"
 msgstr ""
 
 #. [side]: type=Dwarvish Steelclad, id=Noringgurt
-#: ./Antar/scenarios/08_The_Dwarves.cfg:346
+#: ./Antar/scenarios/08_The_Dwarves.cfg:347
 msgid "Noringgurt"
 msgstr ""
 
 #. [side]: type=Death Knight, id=Lord Menachem
-#: ./Antar/scenarios/08_The_Dwarves.cfg:368
+#: ./Antar/scenarios/08_The_Dwarves.cfg:369
 msgid "Lord Menachem"
 msgstr ""
 
-#. [side]
 #. [side]: type=Death Knight, id=Lord Baruch
-#. [side]: type=Death Knight, id=Lord Menachem
-#: ./Antar/scenarios/08_The_Dwarves.cfg:378 ./Antar/scenarios/08_The_Dwarves.cfg:420 ./Antar/scenarios/08_The_Dwarves.cfg:456 ./Antar/scenarios/08_The_Dwarves.cfg:479
-msgid "Mal Kazur"
-msgstr ""
-
-#. [side]: type=Death Knight, id=Lord Baruch
-#: ./Antar/scenarios/08_The_Dwarves.cfg:410
+#: ./Antar/scenarios/08_The_Dwarves.cfg:411
 msgid "Lord Baruch"
 msgstr ""
 
@@ -2573,293 +2613,293 @@ msgstr ""
 #. [unit]: type=Prisondoor, id=Prisondoor1
 #. [unit]: type=Prisondoor, id=Prisondoor2
 #. [unit_type]: id=Prisondoor, race=mechanical
-#: ./Antar/scenarios/08_The_Dwarves.cfg:494 ./Antar/scenarios/08_The_Dwarves.cfg:531 ./Antar/scenarios/08_The_Dwarves.cfg:539 ./Antar/units/Prisondoor.cfg:5
+#: ./Antar/scenarios/08_The_Dwarves.cfg:495 ./Antar/scenarios/08_The_Dwarves.cfg:532 ./Antar/scenarios/08_The_Dwarves.cfg:540 ./Antar/units/Prisondoor.cfg:5
 msgid "Prisondoor"
 msgstr ""
 
 #. [unit]: type=Necromancer, id=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:547
+#: ./Antar/scenarios/08_The_Dwarves.cfg:548
 msgid "Noach"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:747
+#: ./Antar/scenarios/08_The_Dwarves.cfg:748
 msgid "Undead."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:756
+#: ./Antar/scenarios/08_The_Dwarves.cfg:757
 msgid "The Dwarves are getting assistance."
 msgstr ""
 
 #. [message]: speaker=Lord Menachem
-#: ./Antar/scenarios/08_The_Dwarves.cfg:770
+#: ./Antar/scenarios/08_The_Dwarves.cfg:771
 msgid ""
 "No matter.\n"
 "Just kill them and bring me their heads!"
 msgstr ""
 
 #. [message]: speaker=Lord Baruch
-#: ./Antar/scenarios/08_The_Dwarves.cfg:783
+#: ./Antar/scenarios/08_The_Dwarves.cfg:784
 msgid "They will die, just like those ugly tiny little Dwarves, ha ha ha."
 msgstr ""
 
 #. [message]: role=dwarf_survivor_or_dagor
 #. [message]: speaker=Aigatsil
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/08_The_Dwarves.cfg:826 ./Antar/scenarios/08_The_Dwarves.cfg:840 ./Antar/scenarios/08_The_Dwarves.cfg:886
+#: ./Antar/scenarios/08_The_Dwarves.cfg:827 ./Antar/scenarios/08_The_Dwarves.cfg:841 ./Antar/scenarios/08_The_Dwarves.cfg:887
 msgid "The Undead forces seem to be superior. To the north-east is a hidden entrance to the mines."
 msgstr ""
 
 #. [message]: role=dwarf_survivor_or_dagor
 #. [message]: speaker=Garulf
-#: ./Antar/scenarios/08_The_Dwarves.cfg:830 ./Antar/scenarios/08_The_Dwarves.cfg:844
+#: ./Antar/scenarios/08_The_Dwarves.cfg:831 ./Antar/scenarios/08_The_Dwarves.cfg:845
 msgid "*to Lord Antar*   My Lord, you should try to find the entrance while we try to fight the enemy here."
 msgstr ""
 
 #. [message]: speaker=Antar
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/08_The_Dwarves.cfg:942 ./Antar/scenarios/08_The_Dwarves.cfg:948
+#: ./Antar/scenarios/08_The_Dwarves.cfg:931 ./Antar/scenarios/08_The_Dwarves.cfg:938
 msgid "Don't capture the dwarvish villages. That's not a good idea if we want to ask the Dwarves for their help."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:989
+#: ./Antar/scenarios/08_The_Dwarves.cfg:975
 msgid "Hey $second_unit.name!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:993
+#: ./Antar/scenarios/08_The_Dwarves.cfg:979
 msgid "$unit.name you are allied with the Humans?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:997
+#: ./Antar/scenarios/08_The_Dwarves.cfg:983
 msgid "They are friends. They want to meet our leader."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1003
+#: ./Antar/scenarios/08_The_Dwarves.cfg:989
 msgid "Hey, there are Humans!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1007
+#: ./Antar/scenarios/08_The_Dwarves.cfg:993
 msgid "We found them!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1011
+#: ./Antar/scenarios/08_The_Dwarves.cfg:997
 msgid "If you want to fight with us, you are welcome!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1015
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1001
 msgid "We’re here to speak with your leader."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1021
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1007
 msgid "Our leader Gomdring is busy!  He crushes bones inside our mines. The Undead attacked us, they come from all sides. You will have to fight your way to meet him."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1075
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1061
 msgid "Huh, what is that? Looks like a hole in the rocks."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1079
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1065
 msgid "Seems I found a secret entrance."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1085
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1071
 msgid "There, a hole in the rocks."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1089
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1075
 msgid "Seems I found the secret to the mines."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1144
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1132
 msgid "Uh, a prisoner?"
 msgstr ""
 
 #. [message]: speaker=$warden.id
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1163
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1151
 msgid "Yes, a mighty dark sorcerer. The Undead want to free him."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1246
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1234
 msgid "Are you Gomdring?"
 msgstr ""
 
 #. [message]: speaker=Ambergur
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1252
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1240
 msgid "No, I am Ambergur!  You are looking for Gomdring? You will find him east of here in the throne-room."
 msgstr ""
 
 #. [message]: speaker=Alantor
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1304 ./Antar/scenarios/08_The_Dwarves.cfg:1345
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1292 ./Antar/scenarios/08_The_Dwarves.cfg:1333
 msgid "Stop Human!"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1308
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1296
 msgid "Who are you? Come closer!"
 msgstr ""
 
 #. [message]: speaker=$unit.id
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1314
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1302
 msgid "I am a soldier of Lord Antar.  My Lord wishes to speak with you."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1318
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1306
 msgid "Then he should come to me."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1356
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1344
 msgid "Who are you?"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1362
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1350
 msgid "Oh, you must be the Human leader who wants to talk with me?"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1366
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1354
 msgid "Yes I am."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1370
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1358
 msgid "Your men fight well!  *<i>for Humans!</i>*"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1376
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1364
 msgid "I am Antar, son of Lord Rheor. I am a friend in need."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1380
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1368
 msgid "You are welcome, Human. But we are a little busy at the moment. The Undead are attacking us."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1385
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1373
 msgid "Why?"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1395
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1383
 msgid "They want to free one of their masters who we have in prison here.  They are too many, we can hardly resist them.  We might need help."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1399 ./Antar/scenarios/08_The_Dwarves.cfg:1419 ./Antar/scenarios/08_The_Dwarves.cfg:1439
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1387 ./Antar/scenarios/08_The_Dwarves.cfg:1407 ./Antar/scenarios/08_The_Dwarves.cfg:1427
 msgid "A sorcerer?"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1403
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1391
 msgid "Yes, we tried to get information from him.  But before we could question him, we were attacked."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1415
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1403
 msgid "They have freed one of their masters who we had imprisoned here.  They were too many.  They freed him and now they want ho annihilate us. We might need help."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1423
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1411
 msgid "Yes, we tried to get information from him. But before we he could question him, they attacked us and freed him."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1435
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1423
 msgid "They have freed one of their masters who we  had imprisoned here.  They were too many.  They freed him and now they want ho annihilate us. We might need help."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1443
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1431
 msgid "Yes, we tried to get information from him.  But before we he could question him, they attacked us and freed him. But he is dead now."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1449
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1437
 msgid "Although we have come to ask for your help, we will help you."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1453
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1441
 msgid "The evil will prevail if we do not stand together."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1465
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1453
 msgid "You have now 15 turns to clear the mines."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1552
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1540
 msgid "Attack those Undead scum my Dwarvish brothers, let’s show the Humans how tough Dwarves can fight!"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1563
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1551
 msgid "Nobody annoys a Dwarf, take this!"
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1585
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1573
 msgid "The hordes of the Master came to free me."
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1608
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1596
 msgid "My revenge is near. Hahahaha."
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1635
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1623
 msgid "I am free now. Hahahahah! Now you will feel my revenge, Dwarvish scum."
 msgstr ""
 
 #. [message]: speaker=$warden.id
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1654
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1642
 msgid "<b>The wizard is free!</b>"
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1673
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1661
 msgid "Here I can recall my Ghosts and Shadows, my Undead warriors. Now I will take my revenge. You will all die."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1752
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1740
 msgid "Death has found me!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1756
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1744
 msgid "Without Gomdrings support we are lost."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1890
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1878
 msgid "That was the last of the intruders!"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1898
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1886
 msgid "Yes, but they will seek revenge for this defeat!"
 msgstr ""
 
@@ -3065,40 +3105,43 @@ msgid "woodendoor-sw-closed"
 msgstr ""
 
 #. [unit_type]: id=Antar_Fencer
-#: ./Antar/units/1a_Antar.cfg:20
+#: ./Antar/units/1a_Antar.cfg:5
+msgid "Antar - Fencer"
+msgstr ""
+
+#. [unit_type]: id=Antar_Fencer
+#: ./Antar/units/1a_Antar.cfg:22
 msgid ""
 "Fencers belong to a school of thought that considers the armor most soldiers wear in combat to be their own worst enemy. While armor can only soften a blow, evading it leaves the defender completely unharmed. Being able to reliably dodge any offensive move is a luxury only afforded to the fit of body, and then only to those who endure rigorous training.\n"
 "\n"
 "Outfitted with only a dagger and saber, fencers are light on their feet and useful in many situations where their armor-bound peers are at a disadvantage. They relish dancing circles around troops like heavy infantry, mocking the weight of their full armor."
 msgstr ""
 
-#. [attack]: type=blade
-#: ./Antar/units/1a_Antar.cfg:28 ./Antar/units/1a_Antar.cfg:73 ./Antar/units/1a_Antar.cfg:121 ./Antar/units/1a_Antar.cfg:174
-msgid "saber"
-msgstr ""
-
-#. [damage]: id=hit and run
-#: ./Antar/units/1a_Antar.cfg:38 ./Antar/units/1a_Antar.cfg:83 ./Antar/units/1a_Antar.cfg:131 ./Antar/units/1a_Antar.cfg:184
-msgid "hit and run"
-msgstr ""
-
-#. [damage]: id=hit and run
-#: ./Antar/units/1a_Antar.cfg:39 ./Antar/units/1a_Antar.cfg:84 ./Antar/units/1a_Antar.cfg:132 ./Antar/units/1a_Antar.cfg:185
-msgid ""
-"Hit and Run:\n"
-"Antar is light on his feet, this allows him to step back after attacking."
+#. [unit_type]: id=Antar_Duelist
+#: ./Antar/units/1a_Antar.cfg:40
+msgid "Antar - Duellist"
 msgstr ""
 
 #. [unit_type]: id=Antar_Duelist
-#: ./Antar/units/1a_Antar.cfg:65
+#: ./Antar/units/1a_Antar.cfg:57
 msgid ""
 "It is a peculiar custom of Wesnoth’s nobility that they typically enroll their sons into one of two orders of armigers, training them either in the art of horsemanship or fencing. Duelists are so named for an unfortunately common practice of young aristocrats, for whom the sting of insult, whether real or fancied, can incite a rash demonstration of their natural right.\n"
 "\n"
 "Experienced fencers carry with them a small crossbow that is easily concealed under a coat or cape. Slow to load and sometimes thought dishonorable to use, it is in fact very useful, and those of their ranks who live long enough to be veterans typically do so by making such concessions to utility and survival."
 msgstr ""
 
+#. [unit_type]: id=Antar_Master at Arms
+#: ./Antar/units/1a_Antar.cfg:75
+msgid "Antar - Master at Arms"
+msgstr ""
+
 #. [unit_type]: id=Antar_Master at Arms_L4
-#: ./Antar/units/1a_Antar.cfg:163
+#: ./Antar/units/1a_Antar.cfg:113
+msgid "Antar - Master at Arms_L4"
+msgstr ""
+
+#. [unit_type]: id=Antar_Master at Arms_L4
+#: ./Antar/units/1a_Antar.cfg:135
 msgid ""
 "Master fencers have an envied place in life. Though the journey to their station was a dangerous way of life, they have reached the time wherein they reap its rewards. Famed for their skill and dashing manner, these gentlemen have the bearing of natural aristocrats, and are followed by the eyes of many a high born lady.\n"
 "\n"
@@ -3107,77 +3150,67 @@ msgstr ""
 
 #. [unit_type]: id=Gelphrad_ruffian
 #. [unit_type]: id=Thug_Peasant
-#: ./Antar/units/1c_Gelphrad.cfg:13 ./Antar/units/Villagers.cfg:43
+#: ./Antar/units/1c_Gelphrad.cfg:15 ./Antar/units/Villagers.cfg:43
 msgid "Peasants live in the small hamlets and villages scattered across the Wesnoth countryside."
 msgstr ""
 
 #. [unit_type]: id=Gelphrad_Level_0, race=human
-#: ./Antar/units/1c_Gelphrad.cfg:20
+#: ./Antar/units/1c_Gelphrad.cfg:24
 msgid "Initiate"
 msgstr ""
 
 #. [unit_type]: id=Gelphrad_Level_0, race=human
-#: ./Antar/units/1c_Gelphrad.cfg:36
+#: ./Antar/units/1c_Gelphrad.cfg:40
 msgid "Initiates are skilled enough to cast offensively, but lack the time, effort and study to cast as true magi can. They are often targeted by dark magicians, for their magical knowledge is as helpful in learning the dark arts as in learning legal magic."
 msgstr ""
 
 #. [attack]: type=impact
-#: ./Antar/units/1c_Gelphrad.cfg:42
+#: ./Antar/units/1c_Gelphrad.cfg:46
 msgid "staff"
 msgstr ""
 
 #. [attack]: type=fire
-#: ./Antar/units/1c_Gelphrad.cfg:51
+#: ./Antar/units/1c_Gelphrad.cfg:55
 msgid "missile"
 msgstr ""
 
-#. [damage]: id=cleave
-#: ./Antar/units/1d_Careonryn.cfg:6
-msgid "cleave"
-msgstr ""
-
-#. [damage]: id=cleave
-#: ./Antar/units/1d_Careonryn.cfg:7
-msgid ""
-"Cleave:\n"
-"On a melee attack, whatever hits the target will also hit enemies in the two hexes that are adjacent to both the attacker and defender, in a crescent moon shape, for 50% of the original damage."
-msgstr ""
-
-#: ./Antar/units/1d_Careonryn.cfg:85
+#. [attack]: type=blade
+#: ./Antar/units/1d_Careonryn.cfg:14
 msgid "greatsword"
 msgstr ""
 
-#: ./Antar/units/1d_Careonryn.cfg:107 ./Antar/units/1d_Careonryn.cfg:134
+#. [attack]: type=blade
+#: ./Antar/units/1d_Careonryn.cfg:38 ./Antar/units/1d_Careonryn.cfg:65
 msgid "longsword"
 msgstr ""
 
 #. [attack]: type=blade
-#: ./Antar/units/2_Elorial_Din.cfg:16 ./Antar/units/2_Elorial_Din.cfg:46 ./Antar/units/2_Elorial_Din.cfg:88 ./Antar/units/2_Elorial_Din.cfg:133 ./Antar/units/Death_Squire.cfg:49 ./Antar/units/Hunter.cfg:40 ./Antar/units/Prowler.cfg:45 ./Antar/units/Trapper.cfg:41
+#: ./Antar/units/2_Elorial_Din.cfg:18 ./Antar/units/2_Elorial_Din.cfg:50 ./Antar/units/2_Elorial_Din.cfg:94 ./Antar/units/2_Elorial_Din.cfg:141 ./Antar/units/Death_Squire.cfg:49 ./Antar/units/Hunter.cfg:40 ./Antar/units/Prowler.cfg:45 ./Antar/units/Trapper.cfg:41
 msgid "sword"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ./Antar/units/2_Elorial_Din.cfg:25 ./Antar/units/2_Elorial_Din.cfg:55
+#: ./Antar/units/2_Elorial_Din.cfg:27 ./Antar/units/2_Elorial_Din.cfg:59
 msgid "bow"
 msgstr ""
 
 #. [unit_type]: id=Elorial_L_4
-#: ./Antar/units/2_Elorial_Din.cfg:75
+#: ./Antar/units/2_Elorial_Din.cfg:81
 msgid "The nobility of the elves are possessed of merit to match their standing in society. Elvish Lords are the wisest and strongest of their people, and are fearsome in their command of magic."
 msgstr ""
 
 #. [attack]: type=arcane
-#: ./Antar/units/2_Elorial_Din.cfg:97 ./Antar/units/2_Elorial_Din.cfg:142
+#: ./Antar/units/2_Elorial_Din.cfg:103 ./Antar/units/2_Elorial_Din.cfg:150
 msgid "faerie fire"
 msgstr ""
 
 #. [unit_type]: id=Elorial_L_5
-#: ./Antar/units/2_Elorial_Din.cfg:120
+#: ./Antar/units/2_Elorial_Din.cfg:128
 msgid "The leaders of elvenkind command an instinctive loyalty from their people that rulers of other races can only envy, and earn it with great mindfulness and wisdom. Quiet and contemplative in times of peace, a High Lord in the full of his wrath is an awesome sight indeed."
 msgstr ""
 
 #. [unit_type]: id=ASoR_Gomdring
-#: ./Antar/units/3_Gomdring.cfg:8
+#: ./Antar/units/3_Gomdring.cfg:10
 msgid "Clad in shining armor, these dwarves look like kings from under the mountains. They wield axe and hammer with masterful skill, and can hit a target with a thrown hand axe at several paces. Though slow on their feet, these dwarves are a testament to the prowess of their kin."
 msgstr ""
 
@@ -3436,17 +3469,39 @@ msgid "female^Borderer"
 msgstr ""
 
 #. [leadership]: id=allied_leadership
-#: ./Antar/utils/abilities.cfg:10
+#: ./Antar/utils/abilities.cfg:20
 msgid "allied leadership"
 msgstr ""
 
 #. [leadership]: id=allied_leadership
-#: ./Antar/utils/abilities.cfg:11
+#: ./Antar/utils/abilities.cfg:21
 msgid ""
 "Allied Leadership:\n"
 "This unit can lead friendly units that are next to it, making them fight better.\n"
 "\n"
 "Adjacent friendly units of lower level will do more damage in battle. When a unit adjacent to, of a lower level than, and allied to a unit with Allied Leadership engages in combat, its attacks do 25% more damage times the difference in their levels."
+msgstr ""
+
+#. [dummy]: id=hit and run
+#: ./Antar/utils/abilities.cfg:67
+msgid "hit and run"
+msgstr ""
+
+#. [dummy]: id=hit and run
+#: ./Antar/utils/abilities.cfg:69
+msgid "Hit and Run: Antar is light on his feet, this allows him to step back after attacking."
+msgstr ""
+
+#. [damage]: id=cleave
+#: ./Antar/utils/abilities.cfg:77
+msgid "cleave"
+msgstr ""
+
+#. [damage]: id=cleave
+#: ./Antar/utils/abilities.cfg:78
+msgid ""
+"Cleave:\n"
+"On a melee attack, whatever hits the target will also hit enemies in the two hexes that are adjacent to both the attacker and defender, in a crescent moon shape, for 50% of the original damage."
 msgstr ""
 
 #. [advancement]: id=ASoR__amla_heal_full
@@ -3556,63 +3611,63 @@ msgid "{MESSAGE}"
 msgstr ""
 
 #. [unit]: type=ASoR_Ghost
-#: ./Antar/utils/macros.cfg:41
+#: ./Antar/utils/macros.cfg:43
 msgid "Ghost of $dead_store.name"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/utils/macros.cfg:161
+#: ./Antar/utils/macros.cfg:228
 msgid "The rest of the Undead?"
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/macros.cfg:165
+#: ./Antar/utils/macros.cfg:232
 msgid "Now that their master is no longer, the demonic warriors disappear."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/utils/macros.cfg:178
+#: ./Antar/utils/macros.cfg:244
 msgid "It happens again."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/macros.cfg:182
+#: ./Antar/utils/macros.cfg:248
 msgid "Without their master the undead crumble to dust."
 msgstr ""
 
 #. [message]: speaker=Antar
 #. [message]: speaker=Garulf
-#: ./Antar/utils/macros.cfg:200 ./Antar/utils/macros.cfg:206
+#: ./Antar/utils/macros.cfg:265 ./Antar/utils/macros.cfg:271
 msgid "It's nice to watch how these corpses crumble to dust."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/macros.cfg:221
+#: ./Antar/utils/macros.cfg:285
 msgid "Back to the dust, and rest in peace now."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/utils/macros.cfg:342 ./Antar/utils/macros.cfg:369
+#: ./Antar/utils/macros.cfg:406 ./Antar/utils/macros.cfg:433
 msgid "Hey, I found a war chest here!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/utils/macros.cfg:353
+#: ./Antar/utils/macros.cfg:417
 msgid "With about $looser_gold goldpieces inside!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/utils/macros.cfg:380
+#: ./Antar/utils/macros.cfg:444
 msgid "But not much gold left, only $looser_gold goldpieces inside! But better than nothing"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/utils/macros.cfg:389
+#: ./Antar/utils/macros.cfg:453
 msgid "I found a war chest here!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/utils/macros.cfg:400
+#: ./Antar/utils/macros.cfg:464
 msgid "But it is empty!"
 msgstr ""
 
@@ -3739,87 +3794,87 @@ msgid "And so the four allies surrounded the mountain, from which the the sorcer
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:30
+#: ./Antar/utils/utils.cfg:32
 msgid "The macic in this boy it is extraordinary strong. I never saw anything like this before."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:43
+#: ./Antar/utils/utils.cfg:45
 msgid "My student, well done."
 msgstr ""
 
 #. [message]: speaker=Gelphrad
-#: ./Antar/utils/utils.cfg:47 ./Antar/utils/utils.cfg:64 ./Antar/utils/utils.cfg:89
+#: ./Antar/utils/utils.cfg:49 ./Antar/utils/utils.cfg:66 ./Antar/utils/utils.cfg:91
 msgid "Thank you, Master Dagor."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:60
+#: ./Antar/utils/utils.cfg:62
 msgid "My student, you are doing progress."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:77
+#: ./Antar/utils/utils.cfg:79
 msgid "My student, you are doing big progress. A great mage you have become."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:81
+#: ./Antar/utils/utils.cfg:83
 msgid "You are going to be a great mage. A greater magician than I'll ever be."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:85
+#: ./Antar/utils/utils.cfg:87
 msgid "Soon the time will come in which I can teach you anything more."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:108
+#: ./Antar/utils/utils.cfg:110
 msgid "My forces have increased."
 msgstr ""
 
 #. [message]: speaker=Gelphrad
-#: ./Antar/utils/utils.cfg:112
+#: ./Antar/utils/utils.cfg:114
 msgid "One day I hope, i will be such a great mage as you Master."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:135
+#: ./Antar/utils/utils.cfg:137
 msgid "You make big progress my Lord."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:139
+#: ./Antar/utils/utils.cfg:141
 msgid "You will soon be a great leader."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/utils/utils.cfg:144
+#: ./Antar/utils/utils.cfg:146
 msgid "Antar now has leadership skills Level 2."
 msgstr ""
 
 #. [message]: speaker=Dagor
-#: ./Antar/utils/utils.cfg:165
+#: ./Antar/utils/utils.cfg:167
 msgid "Now you are really grown up."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/utils/utils.cfg:170
+#: ./Antar/utils/utils.cfg:172
 msgid "Antar now has leadership skills Level 3."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/utils/utils.cfg:175
+#: ./Antar/utils/utils.cfg:177
 msgid "This also have an effect on allied units."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/utils/utils.cfg:250
+#: ./Antar/utils/utils.cfg:223
 msgid "There are not many men who are trained and capable of leadership. You can only recruit two Sergeants in this campaign."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/utils/utils.cfg:267
+#: ./Antar/utils/utils.cfg:240
 msgid "This was the last man suitable for leadership; you can no longer recruit Sergeants."
 msgstr ""
 
