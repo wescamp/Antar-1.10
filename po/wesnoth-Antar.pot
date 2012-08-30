@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-08-17 14:36-0400\n"
+"POT-Creation-Date: 2012-08-30 18:52-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -597,7 +597,7 @@ msgid "The battle is won, my Lord!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1047 ./Antar/scenarios/08_The_Dwarves.cfg:1882
+#: ./Antar/scenarios/01_Attack_Of_The_Undead.cfg:1047 ./Antar/scenarios/08_The_Dwarves.cfg:1878
 msgid "The battle is won!"
 msgstr ""
 
@@ -2659,247 +2659,247 @@ msgstr ""
 
 #. [message]: speaker=Antar
 #. [message]: speaker=Dagor
-#: ./Antar/scenarios/08_The_Dwarves.cfg:931 ./Antar/scenarios/08_The_Dwarves.cfg:938
+#: ./Antar/scenarios/08_The_Dwarves.cfg:929 ./Antar/scenarios/08_The_Dwarves.cfg:935
 msgid "Don't capture the dwarvish villages. That's not a good idea if we want to ask the Dwarves for their help."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:975
+#: ./Antar/scenarios/08_The_Dwarves.cfg:971
 msgid "Hey $second_unit.name!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:979
+#: ./Antar/scenarios/08_The_Dwarves.cfg:975
 msgid "$unit.name you are allied with the Humans?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:983
+#: ./Antar/scenarios/08_The_Dwarves.cfg:979
 msgid "They are friends. They want to meet our leader."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:989
+#: ./Antar/scenarios/08_The_Dwarves.cfg:985
 msgid "Hey, there are Humans!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:993
+#: ./Antar/scenarios/08_The_Dwarves.cfg:989
 msgid "We found them!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:997
+#: ./Antar/scenarios/08_The_Dwarves.cfg:993
 msgid "If you want to fight with us, you are welcome!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1001
+#: ./Antar/scenarios/08_The_Dwarves.cfg:997
 msgid "We’re here to speak with your leader."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1007
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1003
 msgid "Our leader Gomdring is busy!  He crushes bones inside our mines. The Undead attacked us, they come from all sides. You will have to fight your way to meet him."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1061
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1057
 msgid "Huh, what is that? Looks like a hole in the rocks."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1065
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1061
 msgid "Seems I found a secret entrance."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1071
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1067
 msgid "There, a hole in the rocks."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1075
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1071
 msgid "Seems I found the secret to the mines."
 msgstr ""
 
 #. [message]: speaker=unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1132
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1128
 msgid "Uh, a prisoner?"
 msgstr ""
 
 #. [message]: speaker=$warden.id
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1151
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1147
 msgid "Yes, a mighty dark sorcerer. The Undead want to free him."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1234
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1230
 msgid "Are you Gomdring?"
 msgstr ""
 
 #. [message]: speaker=Ambergur
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1240
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1236
 msgid "No, I am Ambergur!  You are looking for Gomdring? You will find him east of here in the throne-room."
 msgstr ""
 
 #. [message]: speaker=Alantor
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1292 ./Antar/scenarios/08_The_Dwarves.cfg:1333
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1288 ./Antar/scenarios/08_The_Dwarves.cfg:1329
 msgid "Stop Human!"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1296
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1292
 msgid "Who are you? Come closer!"
 msgstr ""
 
 #. [message]: speaker=$unit.id
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1302
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1298
 msgid "I am a soldier of Lord Antar.  My Lord wishes to speak with you."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1306
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1302
 msgid "Then he should come to me."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1344
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1340
 msgid "Who are you?"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1350
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1346
 msgid "Oh, you must be the Human leader who wants to talk with me?"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1354
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1350
 msgid "Yes I am."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1358
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1354
 msgid "Your men fight well!  *<i>for Humans!</i>*"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1364
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1360
 msgid "I am Antar, son of Lord Rheor. I am a friend in need."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1368
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1364
 msgid "You are welcome, Human. But we are a little busy at the moment. The Undead are attacking us."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1373
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1369
 msgid "Why?"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1383
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1379
 msgid "They want to free one of their masters who we have in prison here.  They are too many, we can hardly resist them.  We might need help."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1387 ./Antar/scenarios/08_The_Dwarves.cfg:1407 ./Antar/scenarios/08_The_Dwarves.cfg:1427
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1383 ./Antar/scenarios/08_The_Dwarves.cfg:1403 ./Antar/scenarios/08_The_Dwarves.cfg:1423
 msgid "A sorcerer?"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1391
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1387
 msgid "Yes, we tried to get information from him.  But before we could question him, we were attacked."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1403
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1399
 msgid "They have freed one of their masters who we had imprisoned here.  They were too many.  They freed him and now they want ho annihilate us. We might need help."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1411
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1407
 msgid "Yes, we tried to get information from him. But before we he could question him, they attacked us and freed him."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1423
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1419
 msgid "They have freed one of their masters who we  had imprisoned here.  They were too many.  They freed him and now they want ho annihilate us. We might need help."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1431
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1427
 msgid "Yes, we tried to get information from him.  But before we he could question him, they attacked us and freed him. But he is dead now."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1437
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1433
 msgid "Although we have come to ask for your help, we will help you."
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1441
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1437
 msgid "The evil will prevail if we do not stand together."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1453
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1449
 msgid "You have now 15 turns to clear the mines."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1540
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1536
 msgid "Attack those Undead scum my Dwarvish brothers, let’s show the Humans how tough Dwarves can fight!"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1551
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1547
 msgid "Nobody annoys a Dwarf, take this!"
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1573
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1569
 msgid "The hordes of the Master came to free me."
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1596
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1592
 msgid "My revenge is near. Hahahaha."
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1623
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1619
 msgid "I am free now. Hahahahah! Now you will feel my revenge, Dwarvish scum."
 msgstr ""
 
 #. [message]: speaker=$warden.id
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1642
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1638
 msgid "<b>The wizard is free!</b>"
 msgstr ""
 
 #. [message]: speaker=Noach
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1661
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1657
 msgid "Here I can recall my Ghosts and Shadows, my Undead warriors. Now I will take my revenge. You will all die."
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1740
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1736
 msgid "Death has found me!"
 msgstr ""
 
 #. [message]: speaker=Antar
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1744
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1740
 msgid "Without Gomdrings support we are lost."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1878
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1874
 msgid "That was the last of the intruders!"
 msgstr ""
 
 #. [message]: speaker=Gomdring
-#: ./Antar/scenarios/08_The_Dwarves.cfg:1886
+#: ./Antar/scenarios/08_The_Dwarves.cfg:1882
 msgid "Yes, but they will seek revenge for this defeat!"
 msgstr ""
 
