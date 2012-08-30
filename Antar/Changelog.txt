@@ -179,3 +179,12 @@ Fixed a wrong path to that make some images not visible to non windows users.
 	 (thanke to TheSribe for pointing me)
 
 08	Fixed the 'not to capture allied villages' message (works only BfW 1.10.3 or later)
+
+
+Changelog Antar                Version 0.8.21                Upload 29.08.2012
+
+05	Fixed a bug in the 'dont_capture_allied_villages' message-event
+
+08	Fixed a bug in the 'dont_capture_allied_villages' message-event
+08	Deleted a forgotten DEBUG_MSG
+
