@@ -134,7 +134,7 @@ Changelog Antar                Version 0.8.17                Upload 20.07.2012
 
 Replaced the word 'Ork' with 'Orc' in all scenarios Orcs appear 
 
-01    Reduced hitpoints of the scared Peasant 
+01    Reduced hitpoints of the Scared Peasant 
        (thanks to Quincy)
 02    Changed the death-event of the enemy leader for the case the other undead leader is spawned
 02    Added a price for the player (Staff of Kerathur for Gelphrad) if he is able to level Gelphrad in this scenario
@@ -147,7 +147,7 @@ Replaced the word 'Ork' with 'Orc' in all scenarios Orcs appear
 Changelog Antar                Version 0.8.18                Upload 03.08.2012
 
 Limited the animated decay of the remaining undead at the end of each scenario.
-	(thanks to The Scribe for the idea)
+	(thanks to TheScribe for the idea)
 	(thanks to Doofus for help with the code)
 
 Fixed a bug in the macro {UNDEAD_DISAPEAR_MESSAGE}
@@ -162,7 +162,7 @@ Fixed a bug in the macro {UNDEAD_DISAPEAR_MESSAGE}
 Changelog Antar                Version 0.8.19                Upload 06.08.2012
 
 03	Fixed an <invalid WML found> error message
-	 (thanks to The Scripe for reporting)
+	 (thanks to TheScribe for reporting)
 03	Fixed a bug in an ON_SIGHTING event, that prevented the dwarves from appearing
 
 
@@ -176,9 +176,10 @@ Fixed a wrong path to that make some images not visible to non windows users.
 01	Added reduced hitpoints to Yeres
 
 05	Added a 'kill the Yeti' to the objectives after the Yeti is spawned.
-	 (thanke to TheSribe for pointing me)
+	 (thanks to TheSribe for pointing me)
 
 08	Fixed the 'not to capture allied villages' message (works only BfW 1.10.3 or later)
+
 
 
 Changelog Antar                Version 0.8.21                Upload 29.08.2012
@@ -188,3 +189,10 @@ Changelog Antar                Version 0.8.21                Upload 29.08.2012
 08	Fixed a bug in the 'dont_capture_allied_villages' message-event
 08	Deleted a forgotten DEBUG_MSG
 
+
+Changelog Antar                Version 0.8.22                Upload 23.09.2012
+
+Modified the 'fake attack macro'
+
+01	Added a fake recruit to the first turn, so end turn is no longer needed, and Antar can start at turn 1
+02	Fixed a bug that prevents the farewell gift from being triggered
