@@ -190,9 +190,24 @@ Changelog Antar                Version 0.8.21                Upload 29.08.2012
 08	Deleted a forgotten DEBUG_MSG
 
 
-Changelog Antar                Version 0.8.22                Upload 23.09.2012
+Changelog Antar                Version 0.8.21a                Upload 23.09.2012
 
 Modified the 'fake attack macro'
 
 01	Added a fake recruit to the first turn, so end turn is no longer needed, and Antar can start at turn 1
 02	Fixed a bug that prevents the farewell gift from being triggered
+
+
+
+_____________________________________________________________________________________________________________________________
+
+Changelog Antar                Version 0.8.22b                Upload 24.09.2012
+
+02	Fixed a bug that crashes the game if the player defeats all undead before the undead leader
+02	Added a message for players who wants to inspect the mine entrance
+
+_____________________________________________________________________________________________________________________________
+
+Changelog Antar                Version 0.8.23b                Upload 24.09.2012
+
+02	Fixed a bug that crashes the game ( corrupt coordinate)
