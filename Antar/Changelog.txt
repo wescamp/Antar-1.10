@@ -190,7 +190,7 @@ Changelog Antar                Version 0.8.21                Upload 29.08.2012
 08	Deleted a forgotten DEBUG_MSG
 
 
-Changelog Antar                Version 0.8.21a                Upload 23.09.2012
+Changelog Antar                Version 0.8.21a                Upload 22.09.2012
 
 Modified the 'fake attack macro'
 
@@ -201,13 +201,27 @@ Modified the 'fake attack macro'
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.22b                Upload 24.09.2012
+Changelog Antar                Version 0.8.22a                Upload 23.09.2012
 
 02	Fixed a bug that crashes the game if the player defeats all undead before the undead leader
 02	Added a message for players who wants to inspect the mine entrance
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.23b                Upload 24.09.2012
+Changelog Antar                Version 0.8.23a                Upload 23.09.2012
 
 02	Fixed a bug that crashes the game ( corrupt coordinate)
+
+_____________________________________________________________________________________________________________________________
+
+Changelog Antar                Version 0.8.24a                Upload 26.09.2012
+
+02	The arrival of the undead reinforcements is now animated
+02	Fixed a bug in the {KILL_REMAINING_UNDEAD} macro
+07      Fixed a bug caused by a changed ID
+
+_____________________________________________________________________________________________________________________________
+
+Changelog Antar                Version 0.8.25a                Upload 29.09.2012
+
+Added the missing 'scenarios' folder
