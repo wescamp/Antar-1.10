@@ -246,3 +246,60 @@ add AMLA default to Goblin_Rock_Rider
 04	The units on the recall list will no longer be counted for the goblin spawn calculation
          (Thanks to Dugi for pointing me)
 06	Added new sprite images for the Mountain man / taken from Ageless Era
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.2a                Upload 21.12.2012
+
+	! Elorial Din has now a last breath message
+	- Removed the unused Journey file
+
+01	! Fixed a grammar error
+	   (thanks to Crow_T)
+01	! Fixed the delayed gained XP for the kill of Malbeth
+01	? Scaled Lord Rheor's portrait up
+01	? Scaled Baron Malbeth's portrait down
+
+02	+ Added a {CLEAR_FOG} to the {ON_SIGHTING} events
+02	+ Fixed the delayed gained XP for the kill of the enemy leader(s)
+	- Removed get_loosers_gold
+
+03	+ Added a {CLEAR_FOG} to the {ON_SIGHTING} events
+03	! Fixed the delayed gained XP for the kill of Lord Othar
+03	- Removed get_loosers_gold
+
+04	+ Added some goblins a bit closer to Antars starting position
+
+05	+ Added a warning about the caged Yeti
+	   (thanks to marecki)
+05	- Removed coustom team colour 'Azure'
+05	+ Added coustom team colour 'Dark Khaki'
+05	+ Added scroll_to Yeti while warning about him
+
+06	+ Added a {CLEAR_FOG} to the {ON_SIGHTING} events
+06	! Fixed the delayed gained XP for the kill of the Mother Bat
+06	? Reduced atacks_left of the Yeti to 1 after first sighting
+
+07	! Defeat now if Elorial Din dies by fire (how could I overseen that)
+           (thanks to Gooby for report)
+07	- Removed the 'I felt their presence...' message if Nopirmnd is already killed
+07	- Removed all [fire_event] tags, added macros instead
+07	? Raised start gold +50
+07	? moved the SCATTAER_WOSE macro in the utils foulder
+07	? Hag'ta'morg fllees now if his HP are less than 30
+
+08	! Changed the goto coordinates of the spawned undead to prevent the stuck in the cell
+	   (thanks to marecki)
+08	? Reduced the number of units that triggers the hint from 17 to 14
+08	! Fixed the delayed gained XP for the kill of the last undead
+
+09	+ Added scenario 09_Flight_Tunnel
