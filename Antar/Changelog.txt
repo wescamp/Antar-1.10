@@ -39,7 +39,8 @@ ________________________________________________________________________________
 
 Changelog Antar                Version 0.0.7
 
-Fixed a bug in 2nd scenarios [ai] definition (thanks WhiteWolf for reporting)
+02	Fixed a bug in 2nd scenarios [ai] definition 
+        (thanks WhiteWolf for reporting)
 
 
 _____________________________________________________________________________________________________________________________
@@ -48,7 +49,8 @@ Changelog Antar                Version 0.0.8                Upload 22.03.2012
 
 Fixed the missing image of the Death Squire
 02    The windmill now has income like a village
-02    The player now gets a warning before the Undead-reinforcements arrive .   (thanks taptap)
+02    The player now gets a warning before the Undead-reinforcements arrive.
+       (thanks taptap)
 03    Now theres three different levels, for the wolves that attack together
 05    Made it so that only one Elvish Hunter is loyal
 05    Fixed the scout problem
@@ -59,8 +61,8 @@ ________________________________________________________________________________
 
 Changelog Antar                Version 0.0.10                Upload 07.04.2012
 
-01    Resized the map (What map?)
-05    Fixed a typo and  a missing closing-tag in the hint message
+01    Resized the map of the first scenario
+05    Fixed a typo and a missing closing-tag in the hint message
 
 
 _____________________________________________________________________________________________________________________________
@@ -75,7 +77,7 @@ Added last breath message for loyal Elves
 Renamed the Lvl 1 Peasant to Vigilante
  (thanks Metal King)
 
-01    Add one new village image (made by Zebulon) 
+01    Added one new village image (made by Zebulon) 
 01    Add different messages when Undead capture Human villages
 05    Removed the Scout from the intro 
        (thanks taptap, thanks Metal King)
@@ -189,14 +191,14 @@ Fixed a wrong path, so some images was not visible to non windows users.
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.20a                Upload 28.08.2012
+Changelog Antar                Version 0.8.20                Upload 28.08.2012
 
 Upload to the 1.11 Server
 
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.20b                Upload 29.08.2012
+Changelog Antar                Version 0.8.20                Upload 29.08.2012
 
 Removed a forgotten DEBUG_MSG
 
@@ -205,29 +207,29 @@ Fixed a bug in Dont_Capture_Allied_Villages
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.21b                Upload 22.09.2012
+Changelog Antar                Version 0.8.21                Upload 22.09.2012
 
 Modified the 'fake attack macro'
 
-01	Added a fake recruit to the first turn, so [end turn] is not longer needed, and Antar can start at turn 1
+01	Added a 'fake recruit' to the first turn, so [end turn] is not longer needed, and Antar can start at turn 1
 02	Fixed a bug that prevents the 'farewell gift' from being triggered
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.22b                Upload 23.09.2012
+Changelog Antar                Version 0.8.22                Upload 23.09.2012
 
 02	Fixed a bug that crashes the game if the player defeats all undead before the undead leader
 02	Added a message for players who wants to inspect the mine entrance
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.23b                Upload 22.09.2012
+Changelog Antar                Version 0.8.23                Upload 22.09.2012
 
-02	Fixed a bug that crashes the game ( corrupt coordinate) ### Coordinates
+02	Fixed a bug that crashes the game ( corrupt coordinates)
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.24b                Upload 29.09.2012
+Changelog Antar                Version 0.8.24                Upload 29.09.2012
 
 02	The arrival of the undead reinforcements is now animated
 02	Fixed a bug in the {KILL_REMAINING_UNDEAD} macro
@@ -235,7 +237,7 @@ Changelog Antar                Version 0.8.24b                Upload 29.09.2012
 
 _____________________________________________________________________________________________________________________________
 
-Changelog Antar                Version 0.8.26a                Upload 05.11.2012
+Changelog Antar                Version 0.8.26                Upload 05.11.2012
 
 modified the hit_and_run abillity, so that in any case three movepoints remain at least
 add AMLA default to Goblin_Rock_Rider
@@ -258,10 +260,14 @@ Special marks (used in version history)
 (?) temporary fix/remove/add of something
 ================================================================
 
-Changelog Antar                Version 0.9.2a                Upload 21.12.2012
+Changelog Antar                Version 0.9.2                Upload 21.12.2012
+
 
 	! Elorial Din has now a last breath message
 	- Removed the unused Journey file
+	? Added a 'first time play help' option
+	? Removed 'save_id Gomdring_side' if it is BfW version 1.11.0
+
 
 01	! Fixed a grammar error
 	   (thanks to Crow_T)
@@ -270,12 +276,14 @@ Changelog Antar                Version 0.9.2a                Upload 21.12.2012
 01	? Scaled Baron Malbeth's portrait down
 
 02	+ Added a {CLEAR_FOG} to the {ON_SIGHTING} events
-02	+ Fixed the delayed gained XP for the kill of the enemy leader(s)
-	- Removed get_loosers_gold
+02	! Fixed the delayed gained XP for the kill of the enemy leader(s)
+02	- Removed get_loosers_gold
 
 03	+ Added a {CLEAR_FOG} to the {ON_SIGHTING} events
 03	! Fixed the delayed gained XP for the kill of Lord Othar
-03	- Removed get_loosers_gold
+	- Removed get_loosers_gold
+	+ Added recruit animation to the spawned Revenants
+	! Kill fake side when Lord Othar dies
 
 04	+ Added some goblins a bit closer to Antars starting position
 
@@ -287,7 +295,7 @@ Changelog Antar                Version 0.9.2a                Upload 21.12.2012
 
 06	+ Added a {CLEAR_FOG} to the {ON_SIGHTING} events
 06	! Fixed the delayed gained XP for the kill of the Mother Bat
-06	? Reduced atacks_left of the Yeti to 1 after first sighting
+06	? Reduced attacks_left of the Yeti to 1 after first sighting
 
 07	! Defeat now if Elorial Din dies by fire (how could I overseen that)
            (thanks to Gooby for report)
@@ -295,11 +303,143 @@ Changelog Antar                Version 0.9.2a                Upload 21.12.2012
 07	- Removed all [fire_event] tags, added macros instead
 07	? Raised start gold +50
 07	? moved the SCATTAER_WOSE macro in the utils foulder
-07	? Hag'ta'morg fllees now if his HP are less than 30
+07	? Hag'ta'morg flees now if his HP are less than 30
 
-08	! Changed the goto coordinates of the spawned undead to prevent the stuck in the cell
+08	! Changed the goto coordinates of the spawned undead to prevent them to stuck in the cell
 	   (thanks to marecki)
-08	? Reduced the number of units that triggers the hint from 17 to 14
+08	? reduced the number of units that triggers the hint from 17 to 14
 08	! Fixed the delayed gained XP for the kill of the last undead
-
 09	+ Added scenario 09_Flight_Tunnel
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.3                Upload 31.12.2012
+
+  	! Fixed a gamecrashing bug that prevents the campain to load with BfW 1.11.1
+           (thanks to pinku for the report)
+
+01	! Made sure that Yerres will find a free road hex, on the end of the scenario.
+           (thanks to pinku for the report)
+
+03	- removed fake Othar side, and fake Othar gold
+
+05	+ added a 'help feature message' to give a new player a hint that he will play the Elfes in more than this scenario
+
+08	? changed the music to battle_music when side_1 discovers the Undead first time
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.4                Upload 08.01.2013
+
+BfW version 1.11.1 has an unsolved bug, so I added a hint for the player to tell him he should use a other BfW version
+
+  	? Added a description for some main characters. Those will displayed only in help mode.
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.5                Upload 12.01.2013
+
+	? Added a workaround for the unsolved BfW 1.11.1 bug, that keeps Elorial Dins recall list empty
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.6                Upload 13.01.2013
+
+	! Fixed a bug in the last changes. (Elorial Dins progress)
+	? Added a note that Antar still not work with BfW version 1.11.0   :-(
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.7                Upload 17.01.2013
+
+	! Fixed a typo in the units.cfg of the Vagrant
+	    (Thanks to dark_Crag)
+	! Readded a missing song
+	    (Thanks to dark_Crag)
+	- Removed the redundant image pathes to the female villagers
+	    (Thanks to dark_Crag)
+	
+01	- Deleted the discarded 'find_vacant' line
+	    (Thanks to dark_Crag)
+02	! Fixed Lord Veogwyns ID. That wrong ID had prevented him to speak.
+	    (Thanks to dark_Crag)
+02	! Removed a useles WML part that tries to recall a nonexistent unit
+	    (Thanks to dark_Crag)
+03	- Removed the redundant recall tag for Gelphrad
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.8                Upload 19.01.2013
+
+	! Fixed bug in the main character description. Like it was intended, the description is now just one time visible for each hero.
+
+03	- Removed the discarded 'find_vacant' lines
+
+_____________________________________________________________________________________________________________________________
+
+================================================================
+Special marks (used in version history)
+----------------------------------------------------------------
+(+) added something
+(-) removed something
+(!) fixed a problem
+(?) temporary fix/remove/add of something
+================================================================
+
+Changelog Antar                Version 0.9.9                Upload 19.01.2013
+
+	! Removed a broken macro that prevented the game from loading
